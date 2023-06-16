@@ -1,30 +1,30 @@
 # 入门指南  
 ## CSDN  
-[BIT_666](https://blog.csdn.net/BIT_666?type=blog)  </br>
-捡起一束光 停更  </br>
-Coisini、   停更  </br>
+[BIT_666](https://blog.csdn.net/BIT_666?type=blog)</br>
+[捡起一束光](https://blog.csdn.net/qq_43827595?type=blog '停更')</br>
+[Coisini、](https://blog.csdn.net/kclax?type=blog '停更')</br>
 ## 知乎  
-黄姐姐HJJ 停更，推荐以下文章：</br>
-美丽的邂逅：当UML遇上Xgboost</br>
-互金之套路与反套路</br>
-无监督第二课：如何确认数据字典及做特征衍生</br>
-揭秘反欺诈新宠——无监督学习</br>
-风控数据—手机App数据挖掘实践思路</br>
-IBM基于FastGCN的反洗钱系统</br>
-图卷积在比特币反洗钱中的应用</br>
-CraiditX基于行为序列的欺诈检测建模</br>
-京东基于Session序列的欺诈检测系统CLUE</br>
-恶意账号检测框架SocialWatch</br>
-经典图模型欺诈检测系统BotGraph</br>
-Facebook欺诈账户检测算法SynchroTrap</br>
-关于贷款电话审核，你做的到底对不对？</br>
-PRIM规则发现算法在风控中的应用</br>
-尹航：基于用户行为的交易反欺诈探索</br>
+### [黄姐姐HJJ](https://www.zhihu.com/people/datavisorhjj '停更') 推荐以下文章：</br>
+[美丽的邂逅：当UML遇上Xgboost](https://zhuanlan.zhihu.com/p/51643143)</br>
+[互金之套路与反套路](https://zhuanlan.zhihu.com/p/36891707)</br>
+[无监督第二课：如何确认数据字典及做特征衍生](https://zhuanlan.zhihu.com/p/38920538)</br>
+[揭秘反欺诈新宠——无监督学习](https://zhuanlan.zhihu.com/p/33956298)</br>
+[风控数据—手机App数据挖掘实践思路](https://zhuanlan.zhihu.com/p/78413058)</br>
+[IBM基于FastGCN的反洗钱系统](https://zhuanlan.zhihu.com/p/81724743)</br>
+[图卷积在比特币反洗钱中的应用](https://zhuanlan.zhihu.com/p/85348013)</br>
+[CraiditX基于行为序列的欺诈检测建模](https://zhuanlan.zhihu.com/p/82017466)</br>
+[京东基于Session序列的欺诈检测系统CLUE](https://zhuanlan.zhihu.com/p/60369590)</br>
+[恶意账号检测框架SocialWatch](https://zhuanlan.zhihu.com/p/59381163)</br>
+[经典图模型欺诈检测系统BotGraph](https://zhuanlan.zhihu.com/p/57479763)</br>
+[Facebook欺诈账户检测算法SynchroTrap](https://zhuanlan.zhihu.com/p/57857263)</br>
+[关于贷款电话审核，你做的到底对不对？](https://zhuanlan.zhihu.com/p/79418765)</br>
+[PRIM规则发现算法在风控中的应用](https://zhuanlan.zhihu.com/p/85263946)</br>
+[尹航：基于用户行为的交易反欺诈探索](https://zhuanlan.zhihu.com/p/539532048)</br>
 SynchroTrap：Facebook基于行为相似度的Graph检测恶意账户</br>
 ## 微信公众号</br>
-公众号： 雷帅快与慢 推荐下面这些文章</br>
-风控的三十条经验</br>
-互联网金融中那些可做的模型</br>
+### 公众号： 雷帅快与慢 推荐下面这些文章</br>
+[风控的三十条经验](https://mp.weixin.qq.com/s?__biz=Mzg5NDY0NDY5MQ==&mid=2247485009&idx=1&sn=72ee53b154fe1d561586f7fc88612a74&chksm=c01d3eedf76ab7fb85ccc47d432003ec4c2ffd39b6c92f077e4dad389f3143951f87a0821c76&scene=21#wechat_redirect)</br>
+[互联网金融中那些可做的模型](https://mp.weixin.qq.com/s?__biz=Mzg5NDY0NDY5MQ==&mid=2247484247&idx=1&sn=8cbfdb01d87985c17435c4d31266e950&chksm=c01d3bebf76ab2fd62f22b14df60f1a137097f2fca55ead34ed60e733be754b7b5a86e82dee2&scene=21#wechat_redirect)</br>
 ## GitHub</br>
 ## Quora 美版知乎</br>
 ## Medium 美版CSDN</br>
@@ -98,21 +98,22 @@ SynchroTrap：Facebook基于行为相似度的Graph检测恶意账户</br>
 # 风控分析
 “数据分析的三板斧，看趋势、看对比、看细分。解读监控报表亦如是。光有一个数据是无意义的，比较才能使其有洞见。怎么比？和过去比，和其他的比，分开了自己比。
 ”</br>
-原文地址</br>
+[原文地址](https://mp.weixin.qq.com/s?__biz=Mzg5NDY0NDY5MQ==&mid=2247485009&idx=1&sn=72ee53b154fe1d561586f7fc88612a74&chksm=c01d3eedf76ab7fb85ccc47d432003ec4c2ffd39b6c92f077e4dad389f3143951f87a0821c76&scene=21#wechat_redirect)</br>
 阈值选择方法</br>
 数据可视化书籍推荐：</br>
-[Storytelling with Data: A Data Visualization Guide for Business Professionals]()</br>
+[Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2?&linkCode=sl1&tag=mediumblogpos-20&linkId=408c3e8b8e58bacab7c4d0f6c93f53d1&language=en_US&ref_=as_li_ss_tl)</br>
 
 # 风控算法</br>
 ## 机器学习入门</br>
-kaggle入门系列课程</br>
+[kaggle入门系列课程](https://www.kaggle.com/learn)</br>
 ## 特征工程自动化</br>
-Auto_ViML</br>
+[Auto_ViML](https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46)</br>
 ## 有监督 当前的主流</br>
 [Time Series Classification with sktime](https://www.sktime.net/en/latest/examples/02_classification.html)</br>
 ## 无监督 未来的方向</br>
 ## 无监督-聚类</br>
-[Risk Management with Clustering](https://www.kaggle.com/competitions/tabular-playground-series-jul-2022)</br>
+[Risk Management with Clustering](https://towardsdatascience.com/risk-management-with-clustering-fd594e064806)</br>
+https://www.kaggle.com/competitions/tabular-playground-series-jul-2022</br>
 ## 无监督-异常检测</br>
 [看着还是一个很厉害的异常检测系统](https://github.com/yzhao062/pyod)</br>
 [时间序列异常检测](https://github.com/datamllab/tods)</br>
@@ -120,14 +121,16 @@ Auto_ViML</br>
 ## 无监督-降纬</br>
 Embedding</br>
 ## 无监督-自编码器</br>
-Stock Sentiment Analysis Using Autoencoders</br>
-[Understanding Autoencoders With Examples](https://towardsdatascience.com/detection-of-credit-card-fraud-with-an-autoencoder-9275854efd48)</br>
+[Stock Sentiment Analysis Using Autoencoders](https://www.nbshare.io/notebook/84089365/Stock-Sentiment-Analysis-Using-Autoencoders/)</br>
+[Understanding Autoencoders With Examples](https://www.nbshare.io/notebook/86916405/Understanding-Autoencoders-With-Examples/)</br>
+https://towardsdatascience.com/detection-of-credit-card-fraud-with-an-autoencoder-9275854efd48</br>
 ## 图挖掘</br>
-[Karate Club  Networkx的无监督扩展python库](https://github.com/briatte/awesome-network-analysis#readme)</br>
+[Karate Club](https://karateclub.readthedocs.io/en/latest/notes/introduction.html Networkx的无监督扩展python库)</br>
+https://github.com/briatte/awesome-network-analysis#readme</br>
 ## embedding</br>
 
 # 新的强力工具</br>
-pandasAI</br>
+[pandasAI](https://levelup.gitconnected.com/introducing-pandasai-the-generative-ai-python-library-568a971af014)</br>
 Pandas->Polars  Pandas 2.0</br>
 
 # 风控策略</br>
@@ -144,6 +147,7 @@ Pandas->Polars  Pandas 2.0</br>
 
 # 黑产调研</br>
 ## 黑产软件</br>
+缺一张图
 ## 暗网
 ## 黑产关键词-海外版
 Phishing-SMS
@@ -151,11 +155,11 @@ Phishing-EMAIL
 TextNow  短信收取平台
 
 # 好玩的案例
-Finding Topics in Harry Potter using K-Means Clustering.</br>
-Sentiment analysis on Twitter using Word2vec and Keras</br>
-Probabilistic-Programming-and-Bayesian-Methods-for-Hackers</br>
-Statistical Formulas For Programmers</br>
-pydata-book</br>
+[Finding Topics in Harry Potter using K-Means Clustering.](https://dogdogfish.com/data-visualisation/finding-topics-in-harry-potter-using-k-means-clustering/)</br>
+[Sentiment analysis on Twitter using Word2vec and Keras](https://www.ahmedbesbes.com/blog/sentiment-analysis-with-keras-and-word-2-vec)</br>
+[Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/wesm/pydata-book/tree/3rd-edition)</br>
+[Statistical Formulas For Programmers](https://github.com/wesm/pydata-book/tree/3rd-edition)</br>
+[pydata-book](https://github.com/wesm/pydata-book/tree/3rd-edition)</br>
 [Not A Regular RFM Analysis](https://datatalks.club/blog/segmentation.html)</br>
 评论：一个挺好的RFM分析案例</br>
 
@@ -168,6 +172,7 @@ www.hackerrank.com
 评论：挺好 挺有启发的图神经网络相关文章</br>
 [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)</br>
 评论：挺好 挺有启发的图神经网络相关文章</br>
-[deepfakes](https://www.cs.cmu.edu/~enron/)</br>
+[deepfakes](https://github.com/iperov/DeepFaceLab)</br>
+https://www.cs.cmu.edu/~enron/
 [回头客预测](https://www.kaggle.com/competitions/acquire-valued-shoppers-challenge/data)</br>
 [广告：传感器生物行为预测](https://www.kaggle.com/competitions/accelerometer-biometric-competition/overview)</br>
