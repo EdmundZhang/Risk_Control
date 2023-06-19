@@ -198,9 +198,6 @@ TextNow  短信收取平台</br>
 
 
 # Have Fun
-- [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/wesm/pydata-book/tree/3rd-edition)</br>
-- [Statistical Formulas For Programmers](https://github.com/wesm/pydata-book/tree/3rd-edition)</br>
-- [pydata-book](https://github.com/wesm/pydata-book/tree/3rd-edition)</br>
 - [deepfakes](https://github.com/iperov/DeepFaceLab)</br>
 - [安然造假内部邮件数据](https://www.cs.cmu.edu/~enron/)
 
