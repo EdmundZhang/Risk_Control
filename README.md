@@ -158,7 +158,7 @@
 - [Understanding Autoencoders With Examples](https://www.nbshare.io/notebook/86916405/Understanding-Autoencoders-With-Examples/)</br>
 https://towardsdatascience.com/detection-of-credit-card-fraud-with-an-autoencoder-9275854efd48</br>
 ## 图挖掘</br>
-- [Karate Club](https://karateclub.readthedocs.io/en/latest/notes/introduction.html Networkx的无监督扩展python库)</br>
+- [Karate Club](https://karateclub.readthedocs.io/en/latest/notes/introduction.html 'Networkx的无监督扩展python库')</br>
 - https://github.com/briatte/awesome-network-analysis#readme</br>
 - [经典图模型欺诈检测系统BotGraph](https://zhuanlan.zhihu.com/p/57479763)</br>
 > 评论：挺好 挺有启发的图神经网络相关文章</br>
@@ -182,14 +182,16 @@ https://towardsdatascience.com/detection-of-credit-card-fraud-with-an-autoencode
 缺一张图
 ## 暗网
 ## 黑产关键词-海外版
-Phishing-SMS
-Phishing-EMAIL
-TextNow  短信收取平台
+Phishing-SMS</br>
+Phishing-EMAIL</br>
+TextNow  短信收取平台</br>
 
 
 # 风控工具</br>
 ## Hive SQL</br>
+> 关于Python Pandas scikit-learn,推荐kaggle上的titanic项目入门。
 ## Python Pandas</br>
+## [scikit-learn](https://scikit-learn.org/stable/)
 ## 新的强力工具</br>
 - [pandasAI](https://levelup.gitconnected.com/introducing-pandasai-the-generative-ai-python-library-568a971af014)</br>
 - Pandas->Polars  Pandas 2.0</br>
@@ -199,11 +201,6 @@ TextNow  短信收取平台
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/wesm/pydata-book/tree/3rd-edition)</br>
 - [Statistical Formulas For Programmers](https://github.com/wesm/pydata-book/tree/3rd-edition)</br>
 - [pydata-book](https://github.com/wesm/pydata-book/tree/3rd-edition)</br>
-
-技能提升网站
-leetcode
-www.hackerrank.com
-
 - [deepfakes](https://github.com/iperov/DeepFaceLab)</br>
 - [安然造假内部邮件数据](https://www.cs.cmu.edu/~enron/)
 
