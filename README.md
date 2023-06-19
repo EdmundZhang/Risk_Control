@@ -9,12 +9,12 @@
 - [美丽的邂逅：当UML遇上Xgboost](https://zhuanlan.zhihu.com/p/51643143)</br>
 - [互金之套路与反套路](https://zhuanlan.zhihu.com/p/36891707)</br>
 - [无监督第二课：如何确认数据字典及做特征衍生](https://zhuanlan.zhihu.com/p/38920538)</br>
-- [揭秘反欺诈新宠——无监督学习](https://zhuanlan.zhihu.com/p/33956298)</br>
-[求是汪在路上](https://www.zhihu.com/people/zhe-li-82 '蚂蚁金服') </br>
-[金柔](https://www.zhihu.com/people/jin-rou '采煤挖矿/算命爱好者') </br>
-- [关于贷款电话审核，你做的到底对不对？](https://zhuanlan.zhihu.com/p/79418765)</br>
+- [揭秘反欺诈新宠——无监督学习](https://zhuanlan.zhihu.com/p/33956298)</br></br>
+[求是汪在路上](https://www.zhihu.com/people/zhe-li-82 '蚂蚁金服') </br></br>
+[金柔](https://www.zhihu.com/people/jin-rou '采煤挖矿/算命爱好者') </br></br>
+[风控是个坑](https://www.zhihu.com/people/iceking ) 推荐以下文章：</br>
+- [关于贷款电话审核，你做的到底对不对？](https://zhuanlan.zhihu.com/p/79418765)</br></br>
 
-- SynchroTrap：Facebook基于行为相似度的Graph检测恶意账户</br>
 ## 微信公众号</br>
 公众号： 雷帅快与慢 推荐下面这些文章</br>
 - [风控的三十条经验](https://mp.weixin.qq.com/s?__biz=Mzg5NDY0NDY5MQ==&mid=2247485009&idx=1&sn=72ee53b154fe1d561586f7fc88612a74&chksm=c01d3eedf76ab7fb85ccc47d432003ec4c2ffd39b6c92f077e4dad389f3143951f87a0821c76&scene=21#wechat_redirect)</br>
@@ -32,7 +32,7 @@
 - 风控要略-互联网业务反欺诈之路</br>
 > 一本兼具全面性和深度的互联网风控入门书籍。
 - 精益数据分析</br>
-## Google Scholar * 必看论文推荐</br>
+## Google Scholar</br>
 ## Kaggle</br>
 ## 网课</br>
 - [Coursera课程推荐1:吴恩达](https://www.coursera.org/specializations/machine-learning-introduction?utm_campaign=WebsiteCourses-MLS-TopButton-mls-launch-2022&utm_medium=institutions&utm_source=deeplearning-ai)</br>
@@ -51,15 +51,14 @@
 准备工作：未实名的手机卡   小号   独立的手机（可选）  独立的网络（可选）  </br>
 钱（用来发点咨询费 和 购买黑产资源 黑产软件）</br>
 
-# 风控策略工程师的日常</br>
+## 第四课 风控策略工程师的日常</br>
 风控行业有两类角色，风控算法工程师和风控策略工程师。</br>
 风控策略工程师的日常如下：</br>
 - 黑产/灰产研究</br>
 - 大盘监控-分析漏过-更新策略</br>
 - 深度建模</br>
 - 行业新解决方案/技术方案跟进</br>
-
-# 终极问题：怎样说明对业务产生的价值？</br>
+## 第五课 终极问题：怎样说明对业务产生的价值？</br>
 > 支付类场景:初级的风控讲准召，中级的风控说止损，高级的风控算成本。</br>
 
 准确率、召回率，源自有监督评估体系，是对训练模型的预期效果描述。缺点是：</br>
@@ -76,9 +75,16 @@
 3. 为什么我们要在这个方向是投入人力，不投入风险敞口有多少。</br>
 
 
-# 工作中容易产生的误区</br>
-算法大于一切</br>
-可解释性</br>
+## 第六课 工作中容易产生的误区</br>
+1. 误区1:避免走极端，**算法大于一切**或者**算法毫无用处**都不可取</br>
+不可否认，风控行业普遍存在重算法，轻运营的现象。不管是升级答辩还是工作面试，算法都是必不可少的重点。
+但是实际工作中，要避免得模型狂热病，认为模型可以解决一切问题。模型只是一个解决问题的工具，不是灵丹妙药，手段单一全靠模型最终是会失望而归的。</br>
+
+另外一种，听了一些模型失败的案例以后，就觉得一切都可以靠业务理解解决。为自己不学习找借口的，当然更是大大的误区。</br>
+模型狂人的同学，碰壁后总有一天可以认清现实，是可见时间内能走到正确路上的。</br>
+一直龟缩在自己的舒适区，不愿意学习的同学，不管当前再厉害，总有一天是会落后的。</br>
+
+3. 可解释性</br>
 
 # 风险场景</br>
 ## 账号</br>
@@ -103,15 +109,15 @@
 - 刷量作弊</br>
 - 展示作弊</br>
 - [传感器分析项目](http://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones)
+- [广告：传感器生物行为预测](https://www.kaggle.com/competitions/accelerometer-biometric-competition/overview)</br>
 ## 内容风控</br>
 - 垃圾消息</br>
 ## 场景负责人的角色定义</br>
-权利：对场景的运营指标达成负责。</br>
-      对场景规则变更有决策权。</br>
-责任：事故的第一责任人</br>
-不敢承担责任，不敢决策的负责人，是不尽责的。</br>
+- 权利：对场景的运营指标达成负责。对场景规则变更有决策权。</br>
+- 责任：事故的第一责任人</br>
+- 不敢承担责任，不敢决策的负责人，是不尽责的。</br>
 
-# 风控指标</br>
+## 风控指标</br>
 准召：大部分情况，优先保证准确率。</br>
 
 # 风控分析
@@ -121,6 +127,11 @@
 阈值选择方法</br>
 数据可视化书籍推荐：</br>
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2?&linkCode=sl1&tag=mediumblogpos-20&linkId=408c3e8b8e58bacab7c4d0f6c93f53d1&language=en_US&ref_=as_li_ss_tl)</br>
+
+## 专家规则之怎样设定阈值？</br>
+- 散点图+分位点</br>
+- 变异系数</br>
+
 
 # 风控算法</br>
 ## 机器学习入门</br>
@@ -150,23 +161,12 @@ https://towardsdatascience.com/detection-of-credit-card-fraud-with-an-autoencode
 ## embedding</br>
 - [风控数据—手机App数据挖掘实践思路](https://zhuanlan.zhihu.com/p/78413058)</br>
 
-# 新的强力工具</br>
-- [pandasAI](https://levelup.gitconnected.com/introducing-pandasai-the-generative-ai-python-library-568a971af014)</br>
-- Pandas->Polars  Pandas 2.0</br>
-
-# 风控策略</br>
-## 专家规则之怎样设定阈值？</br>
-散点图+分位点</br>
-变异系数</br>
-
-# 风控技能</br>
-## Hive SQL</br>
-## Python Pandas</br>
 ## 特殊数据类型处理：
 - [时间序列](https://www.sktime.net/en/latest/api_reference/clustering.html)</br>
 可以基于其上做分类和聚类算法。</br>
 - [CraiditX基于行为序列的欺诈检测建模](https://zhuanlan.zhihu.com/p/82017466)</br>
 - [京东基于Session序列的欺诈检测系统CLUE](https://zhuanlan.zhihu.com/p/60369590)</br>
+
 
 # 黑产调研</br>
 ## 黑产软件</br>
@@ -177,7 +177,16 @@ Phishing-SMS
 Phishing-EMAIL
 TextNow  短信收取平台
 
-# 好玩的案例
+
+# 风控工具</br>
+## Hive SQL</br>
+## Python Pandas</br>
+## 新的强力工具</br>
+- [pandasAI](https://levelup.gitconnected.com/introducing-pandasai-the-generative-ai-python-library-568a971af014)</br>
+- Pandas->Polars  Pandas 2.0</br>
+
+
+# 其它好玩的案例
 - [Finding Topics in Harry Potter using K-Means Clustering.](https://dogdogfish.com/data-visualisation/finding-topics-in-harry-potter-using-k-means-clustering/)</br>
 - [Sentiment analysis on Twitter using Word2vec and Keras](https://www.ahmedbesbes.com/blog/sentiment-analysis-with-keras-and-word-2-vec)</br>
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/wesm/pydata-book/tree/3rd-edition)</br>
@@ -198,4 +207,3 @@ www.hackerrank.com
 - [deepfakes](https://github.com/iperov/DeepFaceLab)</br>
 - https://www.cs.cmu.edu/~enron/
 - [回头客预测](https://www.kaggle.com/competitions/acquire-valued-shoppers-challenge/data)</br>
-- [广告：传感器生物行为预测](https://www.kaggle.com/competitions/accelerometer-biometric-competition/overview)</br>
