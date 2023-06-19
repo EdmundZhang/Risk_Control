@@ -10,22 +10,10 @@
 - [互金之套路与反套路](https://zhuanlan.zhihu.com/p/36891707)</br>
 - [无监督第二课：如何确认数据字典及做特征衍生](https://zhuanlan.zhihu.com/p/38920538)</br>
 - [揭秘反欺诈新宠——无监督学习](https://zhuanlan.zhihu.com/p/33956298)</br>
-
-[求是汪在路上](https://www.zhihu.com/people/zhe-li-82 '蚂蚁金服') 推荐以下文章：</br>
-- [风控数据—手机App数据挖掘实践思路](https://zhuanlan.zhihu.com/p/78413058)</br>
-- [PRIM规则发现算法在风控中的应用](https://zhuanlan.zhihu.com/p/85263946)</br>
-
-[金柔](https://www.zhihu.com/people/jin-rou '采煤挖矿/算命爱好者') 推荐以下文章：</br>
-- [IBM基于FastGCN的反洗钱系统](https://zhuanlan.zhihu.com/p/81724743)</br>
-- [图卷积在比特币反洗钱中的应用](https://zhuanlan.zhihu.com/p/85348013)</br>
-- [CraiditX基于行为序列的欺诈检测建模](https://zhuanlan.zhihu.com/p/82017466)</br>
-- [京东基于Session序列的欺诈检测系统CLUE](https://zhuanlan.zhihu.com/p/60369590)</br>
-- [恶意账号检测框架SocialWatch](https://zhuanlan.zhihu.com/p/59381163)</br>
-- [经典图模型欺诈检测系统BotGraph](https://zhuanlan.zhihu.com/p/57479763)</br>
-- [Facebook欺诈账户检测算法SynchroTrap](https://zhuanlan.zhihu.com/p/57857263)</br></br>
-
+[求是汪在路上](https://www.zhihu.com/people/zhe-li-82 '蚂蚁金服') </br>
+[金柔](https://www.zhihu.com/people/jin-rou '采煤挖矿/算命爱好者') </br>
 - [关于贷款电话审核，你做的到底对不对？](https://zhuanlan.zhihu.com/p/79418765)</br>
-- [尹航：基于用户行为的交易反欺诈探索](https://zhuanlan.zhihu.com/p/539532048)</br>
+
 - SynchroTrap：Facebook基于行为相似度的Graph检测恶意账户</br>
 ## 微信公众号</br>
 公众号： 雷帅快与慢 推荐下面这些文章</br>
@@ -94,6 +82,8 @@
 
 # 风险场景</br>
 ## 账号</br>
+- [恶意账号检测框架SocialWatch](https://zhuanlan.zhihu.com/p/59381163)</br>
+- [Facebook欺诈账户检测算法SynchroTrap](https://zhuanlan.zhihu.com/p/57857263)</br>
 - 批量注册</br>
 - 养号</br>
 - 撞库</br>
@@ -102,8 +92,11 @@
 - 薅羊毛</br>
 ## 支付</br>
 - 欺诈</br>
+- [尹航：基于用户行为的交易反欺诈探索](https://zhuanlan.zhihu.com/p/539532048)</br>
 - 盗卡盗刷</br>
 - 反洗钱</br>
+- [IBM基于FastGCN的反洗钱系统](https://zhuanlan.zhihu.com/p/81724743)</br>
+- [图卷积在比特币反洗钱中的应用](https://zhuanlan.zhihu.com/p/85348013)</br>
 - 信贷</br>
 - 刷单？</br>
 ## 广告</br>
@@ -153,7 +146,9 @@ https://towardsdatascience.com/detection-of-credit-card-fraud-with-an-autoencode
 ## 图挖掘</br>
 - [Karate Club](https://karateclub.readthedocs.io/en/latest/notes/introduction.html Networkx的无监督扩展python库)</br>
 - https://github.com/briatte/awesome-network-analysis#readme</br>
+- [经典图模型欺诈检测系统BotGraph](https://zhuanlan.zhihu.com/p/57479763)</br>
 ## embedding</br>
+- [风控数据—手机App数据挖掘实践思路](https://zhuanlan.zhihu.com/p/78413058)</br>
 
 # 新的强力工具</br>
 - [pandasAI](https://levelup.gitconnected.com/introducing-pandasai-the-generative-ai-python-library-568a971af014)</br>
@@ -170,6 +165,8 @@ https://towardsdatascience.com/detection-of-credit-card-fraud-with-an-autoencode
 ## 特殊数据类型处理：
 - [时间序列](https://www.sktime.net/en/latest/api_reference/clustering.html)</br>
 可以基于其上做分类和聚类算法。</br>
+- [CraiditX基于行为序列的欺诈检测建模](https://zhuanlan.zhihu.com/p/82017466)</br>
+- [京东基于Session序列的欺诈检测系统CLUE](https://zhuanlan.zhihu.com/p/60369590)</br>
 
 # 黑产调研</br>
 ## 黑产软件</br>
