@@ -85,6 +85,14 @@
 一直龟缩在自己的舒适区，不愿意学习的同学，不管当前再厉害，总有一天是会落后的。</br>
 
 3. 可解释性</br>
+4. 数据 算法先优化哪个？
+   一位风控大佬曾经说过：数据决定了能达到的上限，而算法只是去逼近这个上限。</br>
+   一般在项目前期，尽可能的对比不同算法的baseline，选择最优的几个算法作为候选集。保底有个80分的算法，剩下的时间用来优化90分，工作体验会比较好。</br>
+   项目中期，一般大量时间是用来做特征工程。这部分推荐kaggle入门项目，看看大佬怎样一番特征工程骚操作搞出很好的效果，在工作中绝对是够用了的。</br>
+   在项目后期，一般大家会开始感受到瓶颈。
+   - 这个时候建议先尝试接入更多新的数据源，拉高上限。
+   - 其次，可以考虑再次回去体验产品流程或者潜伏黑产论坛与行业专业人士聊一聊。一般会有新的想法。
+   - 继续钻研特征工程或者算法，一般不会有啥结果。
 
 # 风险场景</br>
 ## 账号</br>
@@ -138,25 +146,24 @@
 # 风控算法</br>
 ## 机器学习入门</br>
 - [kaggle入门系列课程](https://www.kaggle.com/learn)</br>
-## 特征工程自动化</br>
-- [Auto_ViML](https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46)</br>
+
 ## 有监督 当前的主流</br>
 - [回头客预测](https://www.kaggle.com/competitions/acquire-valued-shoppers-challenge/data)</br>
-## 无监督 未来的方向</br>
 ## 无监督-聚类</br>
 - [Risk Management with Clustering](https://towardsdatascience.com/risk-management-with-clustering-fd594e064806)</br>
 - https://www.kaggle.com/competitions/tabular-playground-series-jul-2022</br>
 - [Finding Topics in Harry Potter using K-Means Clustering.](https://dogdogfish.com/data-visualisation/finding-topics-in-harry-potter-using-k-means-clustering/)</br>
-## 无监督-异常检测</br>
-- [看着还是一个很厉害的异常检测系统](https://github.com/yzhao062/pyod)</br>
-- [时间序列异常检测](https://github.com/datamllab/tods)</br>
-- [图异常检测](https://github.com/pygod-team/pygod/)</br>
 ## 无监督-降纬</br>
-- Embedding</br>
-## 无监督-自编码器</br>
+- [看着还是一个很厉害的异常检测系统](https://github.com/yzhao062/pyod)</br>
+### embedding</br>
+- [风控数据—手机App数据挖掘实践思路](https://zhuanlan.zhihu.com/p/78413058)</br>
+- [Sentiment analysis on Twitter using Word2vec and Keras](https://www.ahmedbesbes.com/blog/sentiment-analysis-with-keras-and-word-2-vec)</br>
+### 自编码器</br>
 - [Stock Sentiment Analysis Using Autoencoders](https://www.nbshare.io/notebook/84089365/Stock-Sentiment-Analysis-Using-Autoencoders/)</br>
 - [Understanding Autoencoders With Examples](https://www.nbshare.io/notebook/86916405/Understanding-Autoencoders-With-Examples/)</br>
 https://towardsdatascience.com/detection-of-credit-card-fraud-with-an-autoencoder-9275854efd48</br>
+### PCA</br>
+
 ## 图挖掘</br>
 - [Karate Club](https://karateclub.readthedocs.io/en/latest/notes/introduction.html 'Networkx的无监督扩展python库')</br>
 - https://github.com/briatte/awesome-network-analysis#readme</br>
@@ -165,21 +172,21 @@ https://towardsdatascience.com/detection-of-credit-card-fraud-with-an-autoencode
 - [Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/)</br>
 > 评论：挺好 挺有启发的图神经网络相关文章</br>
 - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)</br>
-## embedding</br>
-- [风控数据—手机App数据挖掘实践思路](https://zhuanlan.zhihu.com/p/78413058)</br>
-- [Sentiment analysis on Twitter using Word2vec and Keras](https://www.ahmedbesbes.com/blog/sentiment-analysis-with-keras-and-word-2-vec)</br>
+- [图异常检测](https://github.com/pygod-team/pygod/)</br>
 
-## 特殊数据类型处理：
+## 时间序列</br>
 - [时间序列](https://www.sktime.net/en/latest/api_reference/clustering.html)</br>
 可以基于其上做分类和聚类算法。</br>
 - [CraiditX基于行为序列的欺诈检测建模](https://zhuanlan.zhihu.com/p/82017466)</br>
 - [京东基于Session序列的欺诈检测系统CLUE](https://zhuanlan.zhihu.com/p/60369590)</br>
 - [Time Series Classification with sktime](https://www.sktime.net/en/latest/examples/02_classification.html)</br>
-
+- [时间序列异常检测](https://github.com/datamllab/tods)</br>
+## 特征工程自动化</br>
+- [Auto_ViML](https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46)</br>
 
 # 黑产调研</br>
+> 风控行业遇到瓶颈时有三大法宝：找新的数据源，黑产调研
 ## 黑产软件</br>
-缺一张图
 ## 暗网
 ## 黑产关键词-海外版
 Phishing-SMS</br>
