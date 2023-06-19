@@ -1,4 +1,4 @@
-# 入门指南  
+# 互联网风控入门指南  
 > 整理各个平台上比较好的文章
 ### CSDN  
 - [BIT_666](https://blog.csdn.net/BIT_666?type=blog)</br>
@@ -10,8 +10,8 @@
 - [互金之套路与反套路](https://zhuanlan.zhihu.com/p/36891707)</br>
 - [无监督第二课：如何确认数据字典及做特征衍生](https://zhuanlan.zhihu.com/p/38920538)</br>
 - [揭秘反欺诈新宠——无监督学习](https://zhuanlan.zhihu.com/p/33956298)</br></br>
-[求是汪在路上](https://www.zhihu.com/people/zhe-li-82 '蚂蚁金服') </br></br>
-[金柔](https://www.zhihu.com/people/jin-rou '采煤挖矿/算命爱好者') </br></br>
+[求是汪在路上](https://www.zhihu.com/people/zhe-li-82 '蚂蚁金服') </br>
+[金柔](https://www.zhihu.com/people/jin-rou '采煤挖矿/算命爱好者') </br>
 [风控是个坑](https://www.zhihu.com/people/iceking ) 推荐以下文章：</br>
 - [关于贷款电话审核，你做的到底对不对？](https://zhuanlan.zhihu.com/p/79418765)</br></br>
 
@@ -128,6 +128,8 @@
 数据可视化书籍推荐：</br>
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2?&linkCode=sl1&tag=mediumblogpos-20&linkId=408c3e8b8e58bacab7c4d0f6c93f53d1&language=en_US&ref_=as_li_ss_tl)</br>
 
+- [Not A Regular RFM Analysis](https://datatalks.club/blog/segmentation.html)</br>
+评论：一个挺好的RFM分析案例</br>
 ## 专家规则之怎样设定阈值？</br>
 - 散点图+分位点</br>
 - 变异系数</br>
@@ -139,11 +141,12 @@
 ## 特征工程自动化</br>
 - [Auto_ViML](https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46)</br>
 ## 有监督 当前的主流</br>
-- [Time Series Classification with sktime](https://www.sktime.net/en/latest/examples/02_classification.html)</br>
+- [回头客预测](https://www.kaggle.com/competitions/acquire-valued-shoppers-challenge/data)</br>
 ## 无监督 未来的方向</br>
 ## 无监督-聚类</br>
 - [Risk Management with Clustering](https://towardsdatascience.com/risk-management-with-clustering-fd594e064806)</br>
 - https://www.kaggle.com/competitions/tabular-playground-series-jul-2022</br>
+- [Finding Topics in Harry Potter using K-Means Clustering.](https://dogdogfish.com/data-visualisation/finding-topics-in-harry-potter-using-k-means-clustering/)</br>
 ## 无监督-异常检测</br>
 - [看着还是一个很厉害的异常检测系统](https://github.com/yzhao062/pyod)</br>
 - [时间序列异常检测](https://github.com/datamllab/tods)</br>
@@ -158,14 +161,20 @@ https://towardsdatascience.com/detection-of-credit-card-fraud-with-an-autoencode
 - [Karate Club](https://karateclub.readthedocs.io/en/latest/notes/introduction.html Networkx的无监督扩展python库)</br>
 - https://github.com/briatte/awesome-network-analysis#readme</br>
 - [经典图模型欺诈检测系统BotGraph](https://zhuanlan.zhihu.com/p/57479763)</br>
+> 评论：挺好 挺有启发的图神经网络相关文章</br>
+- [Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/)</br>
+> 评论：挺好 挺有启发的图神经网络相关文章</br>
+- [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)</br>
 ## embedding</br>
 - [风控数据—手机App数据挖掘实践思路](https://zhuanlan.zhihu.com/p/78413058)</br>
+- [Sentiment analysis on Twitter using Word2vec and Keras](https://www.ahmedbesbes.com/blog/sentiment-analysis-with-keras-and-word-2-vec)</br>
 
 ## 特殊数据类型处理：
 - [时间序列](https://www.sktime.net/en/latest/api_reference/clustering.html)</br>
 可以基于其上做分类和聚类算法。</br>
 - [CraiditX基于行为序列的欺诈检测建模](https://zhuanlan.zhihu.com/p/82017466)</br>
 - [京东基于Session序列的欺诈检测系统CLUE](https://zhuanlan.zhihu.com/p/60369590)</br>
+- [Time Series Classification with sktime](https://www.sktime.net/en/latest/examples/02_classification.html)</br>
 
 
 # 黑产调研</br>
@@ -186,24 +195,15 @@ TextNow  短信收取平台
 - Pandas->Polars  Pandas 2.0</br>
 
 
-# 其它好玩的案例
-- [Finding Topics in Harry Potter using K-Means Clustering.](https://dogdogfish.com/data-visualisation/finding-topics-in-harry-potter-using-k-means-clustering/)</br>
-- [Sentiment analysis on Twitter using Word2vec and Keras](https://www.ahmedbesbes.com/blog/sentiment-analysis-with-keras-and-word-2-vec)</br>
+# Have Fun
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/wesm/pydata-book/tree/3rd-edition)</br>
 - [Statistical Formulas For Programmers](https://github.com/wesm/pydata-book/tree/3rd-edition)</br>
 - [pydata-book](https://github.com/wesm/pydata-book/tree/3rd-edition)</br>
-- [Not A Regular RFM Analysis](https://datatalks.club/blog/segmentation.html)</br>
-评论：一个挺好的RFM分析案例</br>
-
 
 技能提升网站
 leetcode
 www.hackerrank.com
 
-- [Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/)</br>
-> 评论：挺好 挺有启发的图神经网络相关文章</br>
-- [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)</br>
-> 评论：挺好 挺有启发的图神经网络相关文章</br>
 - [deepfakes](https://github.com/iperov/DeepFaceLab)</br>
-- https://www.cs.cmu.edu/~enron/
-- [回头客预测](https://www.kaggle.com/competitions/acquire-valued-shoppers-challenge/data)</br>
+- [安然造假内部邮件数据](https://www.cs.cmu.edu/~enron/)
+
