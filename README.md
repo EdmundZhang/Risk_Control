@@ -110,7 +110,7 @@
 ## 支付</br>
 - 欺诈</br>
 - [尹航：基于用户行为的交易反欺诈探索](https://zhuanlan.zhihu.com/p/539532048)</br>
-- [kaggle creditcardfraud](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+- [IEEE-CIS Fraud Detection](https://www.kaggle.com/competitions/ieee-fraud-detection/data?select=sample_submission.csv 'Can you detect fraud from customer transactions?')</br>
 - 盗卡盗刷</br>
 - 反洗钱</br>
 - [IBM基于FastGCN的反洗钱系统](https://zhuanlan.zhihu.com/p/81724743)</br>
@@ -122,6 +122,7 @@
 - 展示作弊</br>
 - [传感器分析项目](http://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones)
 - [广告：传感器生物行为预测](https://www.kaggle.com/competitions/accelerometer-biometric-competition/overview)</br>
+- [TalkingData AdTracking Fraud Detection Challenge](https://www.kaggle.com/competitions/talkingdata-adtracking-fraud-detection/data 'Can you detect fraudulent click traffic for mobile app ads?')</br>
 ## 内容风控</br>
 - 垃圾消息</br>
 ## 场景负责人的角色定义</br>
