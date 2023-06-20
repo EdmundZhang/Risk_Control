@@ -110,6 +110,7 @@
 ## 支付</br>
 - 欺诈</br>
 - [尹航：基于用户行为的交易反欺诈探索](https://zhuanlan.zhihu.com/p/539532048)</br>
+- [kaggle creditcardfraud](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 - 盗卡盗刷</br>
 - 反洗钱</br>
 - [IBM基于FastGCN的反洗钱系统](https://zhuanlan.zhihu.com/p/81724743)</br>
@@ -159,6 +160,8 @@
 ## 异常检测 Outlier Detection | Anomaly Detection
 - [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod 'A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)')</br>
 包含常见的，自编码器 AutoEncoders，孤异森林 isolation forest，KNN,PCA，One-class SVM等无监督异常检测工具，不一定要用，但是可以按图索骥了解可用的异常检测算法包。
+[Anomaly Detection for Dummies](https://towardsdatascience.com/anomaly-detection-for-dummies-15f148e559c1 'Unsupervised Anomaly Detection for Univariate & Multivariate Data. Susan Li')</br>
+有非常详细的各类异常检测算法对不同数据集的决策边界和判断结果。适合感性 直观的进行算法选择。
 ## 无监督-降纬</br>
 ### embedding</br>
 - [风控数据—手机App数据挖掘实践思路](https://zhuanlan.zhihu.com/p/78413058)</br>
@@ -181,11 +184,14 @@ https://towardsdatascience.com/detection-of-credit-card-fraud-with-an-autoencode
 
 ## 时间序列</br>
 - [时间序列](https://www.sktime.net/en/latest/api_reference/clustering.html '可以基于其上做分类和聚类算法')</br>
-。</br>
 - [CraiditX基于行为序列的欺诈检测建模](https://zhuanlan.zhihu.com/p/82017466)</br>
 - [京东基于Session序列的欺诈检测系统CLUE](https://zhuanlan.zhihu.com/p/60369590)</br>
 - [Time Series Classification with sktime](https://www.sktime.net/en/latest/examples/02_classification.html)</br>
 - [时间序列异常检测](https://github.com/datamllab/tods)</br>
+
+### 时间序列预测
+[gluonts](https://github.com/awslabs/gluonts 'Probabilistic time series modeling in Python')
+
 ## 特征工程自动化</br>
 - [Auto_ViML](https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46)</br>
 
