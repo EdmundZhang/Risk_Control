@@ -111,6 +111,7 @@
 - 欺诈</br>
 - [尹航：基于用户行为的交易反欺诈探索](https://zhuanlan.zhihu.com/p/539532048)</br>
 - [IEEE-CIS Fraud Detection](https://www.kaggle.com/competitions/ieee-fraud-detection/data?select=sample_submission.csv 'Can you detect fraud from customer transactions?')</br>
+[Detection of Credit Card Fraud with an Autoencoder](https://towardsdatascience.com/detection-of-credit-card-fraud-with-an-autoencoder-9275854efd48 'A guide for the implementation of an anomaly detector')</br>
 - 盗卡盗刷</br>
 - 反洗钱</br>
 - [IBM基于FastGCN的反洗钱系统](https://zhuanlan.zhihu.com/p/81724743)</br>
@@ -177,7 +178,6 @@
 - [Stock Sentiment Analysis Using Autoencoders](https://www.nbshare.io/notebook/84089365/Stock-Sentiment-Analysis-Using-Autoencoders/)</br>
   基于股票文本的自编码器，作为后续有监督算法的输入。
 - [Understanding Autoencoders With Examples](https://www.nbshare.io/notebook/86916405/Understanding-Autoencoders-With-Examples/)</br>
-https://towardsdatascience.com/detection-of-credit-card-fraud-with-an-autoencoder-9275854efd48</br>
 ### PCA</br>
 
 ## 图挖掘</br>
