@@ -8,12 +8,10 @@
 [黄姐姐HJJ](https://www.zhihu.com/people/datavisorhjj '停更') 推荐以下文章：</br>
 - [美丽的邂逅：当UML遇上Xgboost](https://zhuanlan.zhihu.com/p/51643143)</br>
 - [互金之套路与反套路](https://zhuanlan.zhihu.com/p/36891707)</br>
-
 - [揭秘反欺诈新宠——无监督学习](https://zhuanlan.zhihu.com/p/33956298)</br></br>
 [求是汪在路上](https://www.zhihu.com/people/zhe-li-82 '蚂蚁金服') </br>
 [金柔](https://www.zhihu.com/people/jin-rou '采煤挖矿/算命爱好者') </br>
-[风控是个坑](https://www.zhihu.com/people/iceking ) 推荐以下文章：</br>
-- [关于贷款电话审核，你做的到底对不对？](https://zhuanlan.zhihu.com/p/79418765)</br></br>
+[风控是个坑](https://www.zhihu.com/people/iceking ) 推荐以下文章：[关于贷款电话审核，你做的到底对不对？](https://zhuanlan.zhihu.com/p/79418765)</br></br>
 
 ## 微信公众号</br>
 公众号： 雷帅快与慢 推荐下面这些文章</br>
@@ -24,13 +22,13 @@
 ## Medium 美版CSDN</br>
 ## 书籍推荐</br>
 - 西瓜书-南瓜书</br>
-> 对已经有一定算法实践经验的同学，是一本很好的算法入门理论书。
-> 西瓜书讲解相比统计学习方法更详细，而且有南瓜书推导补充，基本可以自学。
+  对已经有一定算法实践经验的同学，是一本很好的算法入门理论书。
+  西瓜书讲解相比统计学习方法更详细，而且有南瓜书推导补充，基本可以自学。
 - 统计学习方法</br>
-> 有了西瓜书的基础以后，可以再看看这本书，做一个知识点补充。
-> 学完之后，基本上常见算法都明白原理。新算法也有探索学习的能力。
+  有了西瓜书的基础以后，可以再看看这本书，做一个知识点补充。
+  学完之后，基本上常见算法都明白原理。新算法也有探索学习的能力。
 - 风控要略-互联网业务反欺诈之路</br>
-> 一本兼具全面性和深度的互联网风控入门书籍。
+  一本兼具全面性和深度的互联网风控入门书籍。
 - 精益数据分析</br>
 ## Google Scholar</br>
 ## Kaggle</br>
@@ -91,7 +89,7 @@
    - 可解释性 天然可以对抗**过拟合**和**欠拟合**
 3. 数据 算法先优化哪个？
    一位风控大佬曾经说过：数据决定了能达到的上限，而算法只是去逼近这个上限。</br>
-   - 一般在项目前期，尽可能的对比不同算法的baseline，选择最优的几个算法作为候选集。保底有个80分的算法，剩下的时间用来优化90分，工作体验会比较好。</br>
+   - 项目前期，尽可能的对比不同算法的baseline，选择最优的几个算法作为候选集。保底有个80分的算法，剩下的时间用来优化90分，工作体验会比较好。</br>
    - 项目中期，一般大量时间是用来做特征工程。这部分推荐kaggle入门项目，看看大佬怎样一番特征工程骚操作搞出很好的效果，在工作中绝对是够用了的。</br>
    可以读一读这篇文章，也会对风控特征工程有一个入门认识：[无监督第二课：如何确认数据字典及做特征衍生](https://zhuanlan.zhihu.com/p/38920538)</br>
    - 在项目后期，一般大家会开始感受到瓶颈。
@@ -134,15 +132,12 @@
 准召：大部分情况，优先保证准确率。</br>
 
 # 风控分析
-“数据分析的三板斧，看趋势、看对比、看细分。解读监控报表亦如是。光有一个数据是无意义的，比较才能使其有洞见。怎么比？和过去比，和其他的比，分开了自己比。
-”</br>
-- [原文地址](https://mp.weixin.qq.com/s?__biz=Mzg5NDY0NDY5MQ==&mid=2247485009&idx=1&sn=72ee53b154fe1d561586f7fc88612a74&chksm=c01d3eedf76ab7fb85ccc47d432003ec4c2ffd39b6c92f077e4dad389f3143951f87a0821c76&scene=21#wechat_redirect)</br>
-阈值选择方法</br>
-数据可视化书籍推荐：</br>
+> [数据分析的三板斧，看趋势、看对比、看细分。解读监控报表亦如是。光有一个数据是无意义的，比较才能使其有洞见。怎么比？和过去比，和其他的比，分开了自己比。
+](https://mp.weixin.qq.com/s?__biz=Mzg5NDY0NDY5MQ==&mid=2247485009&idx=1&sn=72ee53b154fe1d561586f7fc88612a74&chksm=c01d3eedf76ab7fb85ccc47d432003ec4c2ffd39b6c92f077e4dad389f3143951f87a0821c76&scene=21#wechat_redirect)</br>
+## 数据可视化文章推荐：</br>
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2?&linkCode=sl1&tag=mediumblogpos-20&linkId=408c3e8b8e58bacab7c4d0f6c93f53d1&language=en_US&ref_=as_li_ss_tl)</br>
-
 - [Not A Regular RFM Analysis](https://datatalks.club/blog/segmentation.html)</br>
-评论：一个挺好的RFM分析案例</br>
+   > 一个挺好的RFM分析案例</br>
 ## 专家规则之怎样设定阈值？</br>
 - 散点图+分位点</br>
 - 变异系数</br>
@@ -152,7 +147,8 @@
 ## 机器学习入门</br>
 - [kaggle入门系列课程](https://www.kaggle.com/learn)</br>
 
-## 有监督 当前的主流</br>
+## 有监督</br>
+> 当前的主流，有标签数据的首选
 - [回头客预测](https://www.kaggle.com/competitions/acquire-valued-shoppers-challenge/data)</br>
 ## 无监督-聚类</br>
 - [Risk Management with Clustering](https://towardsdatascience.com/risk-management-with-clustering-fd594e064806)</br>
@@ -173,9 +169,9 @@ https://towardsdatascience.com/detection-of-credit-card-fraud-with-an-autoencode
 - [Karate Club](https://karateclub.readthedocs.io/en/latest/notes/introduction.html 'Networkx的无监督扩展python库')</br>
 - https://github.com/briatte/awesome-network-analysis#readme</br>
 - [经典图模型欺诈检测系统BotGraph](https://zhuanlan.zhihu.com/p/57479763)</br>
-> 评论：挺好 挺有启发的图神经网络相关文章</br>
+   > 评论：挺好 挺有启发的图神经网络相关文章</br>
 - [Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/)</br>
-> 评论：挺好 挺有启发的图神经网络相关文章</br>
+   > 评论：挺好 挺有启发的图神经网络相关文章</br>
 - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)</br>
 - [图异常检测](https://github.com/pygod-team/pygod/)</br>
 
