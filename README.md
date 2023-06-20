@@ -112,6 +112,9 @@
 - [尹航：基于用户行为的交易反欺诈探索](https://zhuanlan.zhihu.com/p/539532048)</br>
 - [IEEE-CIS Fraud Detection](https://www.kaggle.com/competitions/ieee-fraud-detection/data?select=sample_submission.csv 'Can you detect fraud from customer transactions?')</br>
 [Detection of Credit Card Fraud with an Autoencoder](https://towardsdatascience.com/detection-of-credit-card-fraud-with-an-autoencoder-9275854efd48 'A guide for the implementation of an anomaly detector')</br>
+- 异常交易识别
+[Anomly Detection in Synthetic Payment Fraud Dataset with TODS](https://colab.research.google.com/drive/15c1Rj60XESwkC2P-BVXUocsXaBJ3M1sr?usp=sharing)</br>
+  看结果，针对支付金额较大的用户，异常发现的准确率较高。分层应用后，可以达到实际项目的要求。
 - 盗卡盗刷</br>
 - 反洗钱</br>
 - [IBM基于FastGCN的反洗钱系统](https://zhuanlan.zhihu.com/p/81724743)</br>
@@ -191,11 +194,13 @@
 - [图异常检测](https://github.com/pygod-team/pygod/)</br>
 
 ## 时间序列</br>
-- [时间序列](https://www.sktime.net/en/latest/api_reference/clustering.html '可以基于其上做分类和聚类算法')</br>
-- [CraiditX基于行为序列的欺诈检测建模](https://zhuanlan.zhihu.com/p/82017466)</br>
-- [京东基于Session序列的欺诈检测系统CLUE](https://zhuanlan.zhihu.com/p/60369590)</br>
 - [Time Series Classification with sktime](https://www.sktime.net/en/latest/examples/02_classification.html)</br>
-- [时间序列异常检测](https://github.com/datamllab/tods)</br>
+- [TODS: Automated Time-series Outlier Detection System](https://github.com/datamllab/tods '')</br>
+
+- [CraiditX基于行为序列的欺诈检测建模](https://zhuanlan.zhihu.com/p/82017466)</br>
+  这篇文章不太看得懂
+- [京东基于Session序列的欺诈检测系统CLUE](https://zhuanlan.zhihu.com/p/60369590)</br>
+  这篇文章也不太看得懂
 
 ### 时间序列预测
 [gluonts](https://github.com/awslabs/gluonts 'Probabilistic time series modeling in Python')
