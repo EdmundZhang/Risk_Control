@@ -156,19 +156,26 @@
 - [回头客预测](https://www.kaggle.com/competitions/acquire-valued-shoppers-challenge/data)</br>
 ## 无监督-聚类</br>
 - [Risk Management with Clustering](https://towardsdatascience.com/risk-management-with-clustering-fd594e064806)</br>
-- https://www.kaggle.com/competitions/tabular-playground-series-jul-2022</br>
+  一个简单的利用无监督和少量特征自动化进行群体发现的案例。
 - [Finding Topics in Harry Potter using K-Means Clustering.](https://dogdogfish.com/data-visualisation/finding-topics-in-harry-potter-using-k-means-clustering/)</br>
+  同上，特征工程部分进阶增加了TF-IDF特征提取。
+- [Kaggle's first ever unsupervised clustering challenge](https://www.kaggle.com/competitions/tabular-playground-series-jul-2022)</br>
+  建议都参加试试，看看不同无监督算法的效果，无监督肯定是未来的方向。
+
 ## 异常检测 Outlier Detection | Anomaly Detection
 - [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod 'A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)')</br>
-包含常见的，自编码器 AutoEncoders，孤异森林 isolation forest，KNN,PCA，One-class SVM等无监督异常检测工具，不一定要用，但是可以按图索骥了解可用的异常检测算法包。
+包含常见的，自编码器 AutoEncoders，孤异森林 isolation forest，KNN,PCA，One-class SVM等无监督异常检测工具，不一定要用，但是可以按图索骥了解可用的异常检测算法包。</br>
 [Anomaly Detection for Dummies](https://towardsdatascience.com/anomaly-detection-for-dummies-15f148e559c1 'Unsupervised Anomaly Detection for Univariate & Multivariate Data. Susan Li')</br>
 有非常详细的各类异常检测算法对不同数据集的决策边界和判断结果。适合感性 直观的进行算法选择。
 ## 无监督-降纬</br>
 ### embedding</br>
 - [风控数据—手机App数据挖掘实践思路](https://zhuanlan.zhihu.com/p/78413058)</br>
+  基于Word2Vec算法，将用户使用的App序列看成句子，App看成单词，向量化App。
+  App向量化以后，可以计算距离 相似度等数据，很适合作为无监督算法的输入。
 - [Sentiment analysis on Twitter using Word2vec and Keras](https://www.ahmedbesbes.com/blog/sentiment-analysis-with-keras-and-word-2-vec)</br>
 ### 自编码器</br>
 - [Stock Sentiment Analysis Using Autoencoders](https://www.nbshare.io/notebook/84089365/Stock-Sentiment-Analysis-Using-Autoencoders/)</br>
+  基于股票文本的自编码器，作为后续有监督算法的输入。
 - [Understanding Autoencoders With Examples](https://www.nbshare.io/notebook/86916405/Understanding-Autoencoders-With-Examples/)</br>
 https://towardsdatascience.com/detection-of-credit-card-fraud-with-an-autoencoder-9275854efd48</br>
 ### PCA</br>
