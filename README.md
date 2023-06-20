@@ -156,8 +156,10 @@
 - [Risk Management with Clustering](https://towardsdatascience.com/risk-management-with-clustering-fd594e064806)</br>
 - https://www.kaggle.com/competitions/tabular-playground-series-jul-2022</br>
 - [Finding Topics in Harry Potter using K-Means Clustering.](https://dogdogfish.com/data-visualisation/finding-topics-in-harry-potter-using-k-means-clustering/)</br>
+## 异常检测 Outlier Detection | Anomaly Detection
+- [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod 'A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)')</br>
+包含常见的，自编码器 AutoEncoders，孤异森林 isolation forest，KNN,PCA，One-class SVM等无监督异常检测工具，不一定要用，但是可以按图索骥了解可用的异常检测算法包。
 ## 无监督-降纬</br>
-- [看着还是一个很厉害的异常检测系统](https://github.com/yzhao062/pyod)</br>
 ### embedding</br>
 - [风控数据—手机App数据挖掘实践思路](https://zhuanlan.zhihu.com/p/78413058)</br>
 - [Sentiment analysis on Twitter using Word2vec and Keras](https://www.ahmedbesbes.com/blog/sentiment-analysis-with-keras-and-word-2-vec)</br>
