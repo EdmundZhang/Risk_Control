@@ -178,8 +178,8 @@ https://towardsdatascience.com/detection-of-credit-card-fraud-with-an-autoencode
 - [图异常检测](https://github.com/pygod-team/pygod/)</br>
 
 ## 时间序列</br>
-- [时间序列](https://www.sktime.net/en/latest/api_reference/clustering.html)</br>
-可以基于其上做分类和聚类算法。</br>
+- [时间序列](https://www.sktime.net/en/latest/api_reference/clustering.html '可以基于其上做分类和聚类算法')</br>
+。</br>
 - [CraiditX基于行为序列的欺诈检测建模](https://zhuanlan.zhihu.com/p/82017466)</br>
 - [京东基于Session序列的欺诈检测系统CLUE](https://zhuanlan.zhihu.com/p/60369590)</br>
 - [Time Series Classification with sktime](https://www.sktime.net/en/latest/examples/02_classification.html)</br>
@@ -188,7 +188,7 @@ https://towardsdatascience.com/detection-of-credit-card-fraud-with-an-autoencode
 - [Auto_ViML](https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46)</br>
 
 # 黑产调研</br>
-> 风控行业遇到瓶颈时有三大法宝：找新的数据源，黑产调研
+> 黑产部分还没开始写，希望尽可能覆盖海外黑产
 ## 黑产软件</br>
 ## 暗网
 ## 黑产关键词-海外版
