@@ -134,10 +134,12 @@
 # 风控分析
 > [数据分析的三板斧，看趋势、看对比、看细分。解读监控报表亦如是。光有一个数据是无意义的，比较才能使其有洞见。怎么比？和过去比，和其他的比，分开了自己比。
 ](https://mp.weixin.qq.com/s?__biz=Mzg5NDY0NDY5MQ==&mid=2247485009&idx=1&sn=72ee53b154fe1d561586f7fc88612a74&chksm=c01d3eedf76ab7fb85ccc47d432003ec4c2ffd39b6c92f077e4dad389f3143951f87a0821c76&scene=21#wechat_redirect)</br>
+
+[Not A Regular RFM Analysis](https://datatalks.club/blog/segmentation.html)</br>
+   
 ## 数据可视化文章推荐：</br>
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals-ebook/dp/B016DHQSM2?&linkCode=sl1&tag=mediumblogpos-20&linkId=408c3e8b8e58bacab7c4d0f6c93f53d1&language=en_US&ref_=as_li_ss_tl)</br>
-- [Not A Regular RFM Analysis](https://datatalks.club/blog/segmentation.html)</br>
-   > 一个挺好的RFM分析案例</br>
+
 ## 专家规则之怎样设定阈值？</br>
 - 散点图+分位点</br>
 - 变异系数</br>
