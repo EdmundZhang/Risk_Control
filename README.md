@@ -159,6 +159,13 @@
 > 当前的主流，有标签数据的首选
 - [回头客预测](https://www.kaggle.com/competitions/acquire-valued-shoppers-challenge/data)</br>
 ## 无监督-聚类</br>
+从经验上看，聚类的维度超过10维以后，结果就很难
+聚类是一种非常好的从0开始认识数数据内部结构的的方法。使用聚类方法要注意的点如下：
+1.一般5-15维结果特征直接输入模型可以有一个还不错的结果。
+维度太高可以依次尝试：去掉相关性强的变量 根据业务解释保留可解释的变量 分模块聚类  自编码器进行主动降维等
+2.轮廓系数（silhouette_score）计算量很大，可以考虑使用davies_bouldin_score 和 calinski_harabasz_score 等。
+3.系数评估和PCA降维可视化都只是参考，可能和业务实际甚至是反向的，不要迷信。一切以业务实际为准。
+
 - [Risk Management with Clustering](https://towardsdatascience.com/risk-management-with-clustering-fd594e064806)</br>
   一个简单的利用无监督和少量特征自动化进行群体发现的案例。
 - [Finding Topics in Harry Potter using K-Means Clustering.](https://dogdogfish.com/data-visualisation/finding-topics-in-harry-potter-using-k-means-clustering/)</br>
