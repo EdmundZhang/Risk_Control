@@ -191,6 +191,9 @@
 ### PCA</br>
 
 ## 图挖掘</br>
+###图聚类
+Affinity Propagation：可以叫做近似传播|亲和力传播
+###其它
 - [Karate Club](https://karateclub.readthedocs.io/en/latest/notes/introduction.html 'Networkx的无监督扩展python库')</br>
 - https://github.com/briatte/awesome-network-analysis#readme</br>
 - [经典图模型欺诈检测系统BotGraph](https://zhuanlan.zhihu.com/p/57479763)</br>
