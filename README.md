@@ -212,8 +212,9 @@ Affinity Propagation：可以叫做近似传播|亲和力传播
 - [京东基于Session序列的欺诈检测系统CLUE](https://zhuanlan.zhihu.com/p/60369590)</br>
   这篇文章也不太看得懂
 
-### 时间序列预测
+### 时间序列预测&异常检测
 [gluonts](https://github.com/awslabs/gluonts 'Probabilistic time series modeling in Python')
+[MatrixProfile](https://matrixprofile.docs.matrixprofile.org/examples/ECG_Annotation_Vectors.html)
 
 ## 特征工程自动化</br>
 - [Auto_ViML](https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46)</br>
