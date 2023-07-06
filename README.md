@@ -114,7 +114,11 @@
 [Detection of Credit Card Fraud with an Autoencoder](https://towardsdatascience.com/detection-of-credit-card-fraud-with-an-autoencoder-9275854efd48 'A guide for the implementation of an anomaly detector')</br>
 - 异常交易识别</br>
 [Anomly Detection in Synthetic Payment Fraud Dataset with TODS](https://colab.research.google.com/drive/15c1Rj60XESwkC2P-BVXUocsXaBJ3M1sr?usp=sharing)</br>
-  看结果，针对支付金额较大的用户，异常发现的准确率较高。分层应用后，可以达到实际项目的要求。
+  看结果，针对支付金额较大的用户，异常发现的准确率较高。分层应用后，可以达到实际项目的要求。</br>
+  [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
+  [graph-fraud-detection-papers](https://github.com/safe-graph/graph-fraud-detection-papers)
+  [fraud-detection-handbook](https://github.com/Fraud-Detection-Handbook/fraud-detection-handbook/tree/main)
+  [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources)
 - 盗卡盗刷</br>
 - 反洗钱</br>
 - [IBM基于FastGCN的反洗钱系统](https://zhuanlan.zhihu.com/p/81724743)</br>
