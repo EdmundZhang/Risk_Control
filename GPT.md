@@ -8,3 +8,6 @@
 
 [5 Jupyter Hacks That You Never Knew Even Existed](https://towardsdatascience.com/5-jupyter-hacks-that-you-never-knew-even-existed-9dc0a08fd90a '可视化增强；代码提示')
 
+
+Midjourney/Leonardo AI：图像生成
+
