@@ -12,3 +12,6 @@
 
 Midjourney/Leonardo AI：图像生成
 
+[Get Started With Disco Diffusion to Create AI Generated Art](https://bytexd.com/get-started-with-disco-diffusion-to-created-ai-generated-art/)
+
+[Hacking Hacker News frontpage with GPT-3](https://vasilishynkarenka.com/gpt-3/ 'In three weeks, I got to the front page five times, received 1054 upvotes, and had 37k people come to my site.')
