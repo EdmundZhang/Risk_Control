@@ -19,7 +19,9 @@
 - [互联网金融中那些可做的模型](https://mp.weixin.qq.com/s?__biz=Mzg5NDY0NDY5MQ==&mid=2247484247&idx=1&sn=8cbfdb01d87985c17435c4d31266e950&chksm=c01d3bebf76ab2fd62f22b14df60f1a137097f2fca55ead34ed60e733be754b7b5a86e82dee2&scene=21#wechat_redirect)</br>
 ## GitHub</br>
 ## Quora 美版知乎</br>
-## Medium 美版CSDN</br>
+## [Medium](https://medium.com/ '美版CSDN')</br>
+## [hackernoon](https://hackernoon.com/ '')</br>
+## [dev.to](https://dev.to/ '')</br>
 ## 书籍推荐</br>
 - 西瓜书-南瓜书</br>
   对已经有一定算法实践经验的同学，是一本很好的算法入门理论书。
