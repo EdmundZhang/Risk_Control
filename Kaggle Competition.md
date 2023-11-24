@@ -32,6 +32,13 @@
 ### 信贷
 [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk/data 'Can you predict how capable each applicant is of repaying a loan?')</br>
 
+### 半监督/无监督
+
+[Semi-Supervised Feature Learning](https://www.kaggle.com/competitions/SemiSupervisedFeatureLearning/overview 'Find methods which work best on large-scale, high-dimensional learning tasks')</br>
+
+
+
+
 
 
 
