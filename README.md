@@ -202,6 +202,7 @@
 ### PCA</br>
 
 ## 图挖掘</br>
+[Fraudar_D-Cube](https://maimai.cn/article/detail?fid=1567807199&efid=OaWNb5R1UOE_ZaDNI3D1mg '')
 ### 图聚类
 Affinity Propagation：可以叫做近似传播|亲和力传播</br>
 ### 其它
