@@ -203,6 +203,7 @@
 
 ## 图挖掘</br>
 [Fraudar_D-Cube](https://maimai.cn/article/detail?fid=1567807199&efid=OaWNb5R1UOE_ZaDNI3D1mg '')
+[Fraudar算法在京东关系网络反欺诈中的应用](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247505836&idx=2&sn=5a43457f0b3df76ca1b32878533d9956&chksm=fbd765c0cca0ecd65618dc906843bc9cc9fc49078bd8811fdb2ac11a1ea5e49067dc4c6deae4&scene=178&cur_album_id=1874994512746381314#rd '稠密图挖掘，一般代表涉嫌欺诈或者异常')
 ### 图聚类
 Affinity Propagation：可以叫做近似传播|亲和力传播</br>
 ### 其它
