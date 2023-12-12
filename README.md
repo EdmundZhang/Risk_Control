@@ -204,8 +204,11 @@
 ## 图挖掘</br>
 [Fraudar_D-Cube](https://maimai.cn/article/detail?fid=1567807199&efid=OaWNb5R1UOE_ZaDNI3D1mg '')
 [Fraudar算法在京东关系网络反欺诈中的应用](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247505836&idx=2&sn=5a43457f0b3df76ca1b32878533d9956&chksm=fbd765c0cca0ecd65618dc906843bc9cc9fc49078bd8811fdb2ac11a1ea5e49067dc4c6deae4&scene=178&cur_album_id=1874994512746381314#rd '稠密图挖掘，一般代表涉嫌欺诈或者异常')
+
+
 ### 图聚类
 Affinity Propagation：可以叫做近似传播|亲和力传播</br>
+[ClusterGCN](https://github.com/benedekrozemberczki/ClusterGCN 'A PyTorch implementation of "Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks" (KDD 2019).')
 ### 其它
 - [Karate Club](https://karateclub.readthedocs.io/en/latest/notes/introduction.html 'Networkx的无监督扩展python库')</br>
 - https://github.com/briatte/awesome-network-analysis#readme</br>
@@ -225,9 +228,19 @@ Affinity Propagation：可以叫做近似传播|亲和力传播</br>
 - [京东基于Session序列的欺诈检测系统CLUE](https://zhuanlan.zhihu.com/p/60369590)</br>
   这篇文章也不太看得懂
 
+  [telemanom](https://github.com/khundman/telemanom 'A framework for using LSTMs to detect anomalies in multivariate time series data. Includes spacecraft anomaly data and experiments from the Mars Science Laboratory and SMAP missions.')
+
+  [OmniAnomaly](https://github.com/NetManAIOps/OmniAnomaly 'KDD 2019: Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network')
+
+  [Time-Series-Works-Conferences](https://github.com/lixus7/Time-Series-Works-Conferences 'Time-Series Work Summary in CS Top Conferences (NIPS, ICML, ICLR, KDD, AAAI, WWW, IJCAI, CIKM, ICDM, ICDE, etc.)')
+  
+
 ### 时间序列预测&异常检测
 [gluonts](https://github.com/awslabs/gluonts 'Probabilistic time series modeling in Python')
 [MatrixProfile](https://matrixprofile.docs.matrixprofile.org/examples/ECG_Annotation_Vectors.html)
+
+[Anomaly-ReactionRL](https://github.com/gcamfer/Anomaly-ReactionRL 'Using RL for anomaly detection in NSL-KDD')
+
 
 ## 特征工程自动化</br>
 - [Auto_ViML](https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46)</br>
