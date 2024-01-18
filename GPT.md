@@ -1,5 +1,6 @@
 > ChatGPT</br>
-
+[LangChain](https://github.com/langchain-ai/langchain 'Building applications with LLMs through composability')
+> 
 [Pandas AI — The Future of Data Analysis](https://medium.com/@fareedkhandev/pandas-ai-the-future-of-data-analysis-8f0be9b5ab6f 'PandasAI调用OpenAI接口,生成式进行数据分析')</br>
 强烈建议，可以试试
 [ChatGPT now integrates with Jupyter Notebooks!]（https://medium.datadriveninvestor.com/chatgpt-now-integrates-with-jupyter-notebooks-ebf37a47422b ）
@@ -18,5 +19,5 @@ Midjourney/Leonardo AI：图像生成
 
 
 
-[LangChain](https://www.langchain.com/ 'Get your LLM application from prototype to production')
+
 
