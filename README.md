@@ -39,6 +39,9 @@
 - [斯坦福机器学习课程](https://www.coursera.org/learn/machine-learning)</br>
 - [哈佛机器学习课程](https://www.edx.org/course/data-science-machine-learning)</br>
 
+## 顶会</br>
+- [Identifying Anomalies in Graph Streams Using Change Detection](https://www.mlgworkshop.org/2016/paper/MLG2016_paper_12.pdf)</br>
+
 
 # 风控策略工程师的入门课程</br>
 ## 第一课</br>
