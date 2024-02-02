@@ -40,24 +40,24 @@
 - [哈佛机器学习课程](https://www.edx.org/course/data-science-machine-learning)</br>
 
 ## 顶会</br>
+- 有代码</br>
 - [SliceNDice: Mining Suspicious Multi-attribute Entity Groups with Multi-view Graphs](https://arxiv.org/abs/1908.07087) [SliceNDice-代码](https://github.com/hamedn/SliceNDice)</br>
-
 - [FlowScope: Spotting Money Laundering Based on Graphs](https://shenghua-liu.github.io/papers/aaai2020cr-flowscope.pdf) [FlowScope-代码](https://github.com/aplaceof/FlowScope)</br>
+- [Spam Review Detection with Graph Convolutional Networks](https://arxiv.org/abs/1908.10679) [Spam Review Detection with Graph Convolutional Networks-代码](https://github.com/safe-graph/DGFraud)</br>
+- [Heterogeneous Graph Neural Networks for Malicious Account Detection](https://dl.acm.org/doi/10.1145/3269206.3272010)[Heterogeneous Graph Neural Networks for Malicious Account Detection-代码](https://github.com/safe-graph/DGFraud)</br>
+- [CatchCore: Catching Hierarchical Dense Subtensor](https://shenghua-liu.github.io/papers/pkdd2019-catchcore.pdf) [catchcore-代码](https://github.com/wenchieh/catchcore/tree/master)</br>
 
+-感兴趣</br>
 - [No Place to Hide: Catching Fraudulent Entities in Tensors](https://arxiv.org/pdf/1810.06230.pdf)</br>
 - [Fraud Detection with Density Estimation Trees](https://proceedings.mlr.press/v71/ram18a/ram18a.pdf)</br>
 - [HiDDen: Hierarchical Dense Subgraph Detection with Application to Financial Fraud Detection](https://www.public.asu.edu/~hdavulcu/SDM17.pdf)</br>
 - [FairPlay: Fraud and Malware Detection in Google Play](https://arxiv.org/abs/1703.02002)</br>
 - [Fraud Transactions Detection via Behavior Tree with Local Intention Calibration](https://dl.acm.org/doi/abs/10.1145/3394486.3403354)</br>
 
-
+-其它</br>
 - [Identifying Anomalies in Graph Streams Using Change Detection](https://www.mlgworkshop.org/2016/paper/MLG2016_paper_12.pdf)</br>
-- [Spam Review Detection with Graph Convolutional Networks](https://arxiv.org/abs/1908.10679)</br>
-- [Heterogeneous Graph Neural Networks for Malicious Account Detection](https://dl.acm.org/doi/10.1145/3269206.3272010)</br>
 - [HitFraud: A Broad Learning Approach for Collective Fraud Detection in Heterogeneous Information Networks](https://arxiv.org/abs/1709.04129)</br>
-
 - [Friend or Faux: Graph-Based Early Detection of Fake Accounts on Social Networks](https://arxiv.org/abs/2004.04834)</br>
-- [catchcore-代码](https://github.com/wenchieh/catchcore/tree/master)</br>
 
    
 
