@@ -40,10 +40,9 @@
 - [哈佛机器学习课程](https://www.edx.org/course/data-science-machine-learning)</br>
 
 ## 顶会</br>
-- [SliceNDice: Mining Suspicious Multi-attribute Entity Groups with Multi-view Graphs-论文](https://arxiv.org/abs/1908.07087)[SliceNDice: Mining Suspicious Multi-attribute Entity Groups with Multi-view Graphs-代码](https://github.com/hamedn/SliceNDice)</br>
+- [SliceNDice: Mining Suspicious Multi-attribute Entity Groups with Multi-view Graphs](https://arxiv.org/abs/1908.07087) [SliceNDice-代码](https://github.com/hamedn/SliceNDice)</br>
 
-- [FlowScope: Spotting Money Laundering Based on Graphs](https://shenghua-liu.github.io/papers/aaai2020cr-flowscope.pdf)</br>
-- [FlowScope-代码](https://github.com/aplaceof/FlowScope)</br>
+- [FlowScope: Spotting Money Laundering Based on Graphs](https://shenghua-liu.github.io/papers/aaai2020cr-flowscope.pdf) [FlowScope-代码](https://github.com/aplaceof/FlowScope)</br>
 
 - [No Place to Hide: Catching Fraudulent Entities in Tensors](https://arxiv.org/pdf/1810.06230.pdf)</br>
 - [Fraud Detection with Density Estimation Trees](https://proceedings.mlr.press/v71/ram18a/ram18a.pdf)</br>
