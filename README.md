@@ -278,11 +278,6 @@ TextNow  短信收取平台</br>
 
 
 # 风控工具</br>
-## 号称可以检测异常proxy/VPN的网站
-[IP Intelligence]（https://github.com/blackdotsh/getIPIntel#easy-to-use-web-interface-without-any-coding 'a free tool that attempts to determine how likely an IP address is a proxy / VPN / bad IP using mathematical and modern computing techniques'）</br>
-[对应的ip查询结果查询网站](https://getipintel.net/free-proxy-vpn-tor-ip-lookup/#web)</br>
-[ipaddress](https://ipaddress.my/?lang=zh_CN)
-
 ## Hive SQL</br>
 > 关于Python Pandas scikit-learn,推荐kaggle上的titanic项目入门。
 ## Python Pandas</br>
