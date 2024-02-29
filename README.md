@@ -41,13 +41,13 @@
 
 ## 顶会</br>
 - 有代码</br>
-> SliceNDice：捕捉具备大量共同属性的用户，比如在同一时间和地点创建的帐户、宣传相同言论和转发类似文章的账户。（年）
+> SliceNDice：捕捉具备大量共同属性的用户，比如在同一时间和地点创建的帐户、宣传相同言论和转发类似文章的账户。(IEEE DSAA (2019)) 
 > 输入：实体+属性1...+属性N
 > 算法功能：根据共同属性构造边，合并各属性构造的子图，形成Multi-View Graph.随后挖掘异常关联子图（"dense" subnetwork）.
 > 实验数据集大小：Snapchat advertiser platform（23W实体 × 12属性），发现2435异常实体，precision 89%
 - [SliceNDice: Mining Suspicious Multi-attribute Entity Groups with Multi-view Graphs](https://arxiv.org/abs/1908.07087) [SliceNDice-代码](https://github.com/hamedn/SliceNDice)</br>
 
-> FlowScope（年）
+> FlowScope(AAAI 2020年)
 > 输入：A（转账人）->M(中间人)->C(收款人)
 > 算法功能：找到其中可能涉及洗钱的团伙
 > 实验数据集大小：-
