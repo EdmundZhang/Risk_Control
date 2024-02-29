@@ -53,8 +53,27 @@
 > 实验数据集大小：-
 - [FlowScope: Spotting Money Laundering Based on Graphs](https://shenghua-liu.github.io/papers/aaai2020cr-flowscope.pdf) [FlowScope-代码](https://github.com/BGT-M/spartan2)</br>
 
-- [Spam Review Detection with Graph Convolutional Networks](https://arxiv.org/abs/1908.10679) [Spam Review Detection with Graph Convolutional Networks-代码](https://github.com/safe-graph/DGFraud)</br>
-- [Heterogeneous Graph Neural Networks for Malicious Account Detection](https://dl.acm.org/doi/10.1145/3269206.3272010)[Heterogeneous Graph Neural Networks for Malicious Account Detection-代码](https://github.com/safe-graph/DGFraud)</br>
+
+这篇论文中，作者构建了两种图结构：异构图Xianyu Graph和同构图Comment Graph。
+
+
+> 输入：
+异构图 Xianyu Graph：
+节点： 由用户（U）、物品（I）和评论（E）组成。
+
+同构图 Comment Graph：
+节点： 由评论（E）组成。
+边： 表示相似的评论。通过构建近似KNN图算法，找到每个评论的K个最近邻居，从而形成同构图。
+
+
+> 算法功能：
+使用异构GCN对Xianyu Graph进行embedding
+采用归纳GCN对Comment Graph进行embedding
+采用TextCNN对评论文本进行embedding
+一起输入到GCN-based Anti-Spam（GAS）模型，进行有监督分类。
+- [Spam Review Detection with Graph Convolutional Networks](https://arxiv.org/abs/1908.10679 '阿里的论文 CIKM 2019') [Spam Review Detection with Graph Convolutional Networks-代码](https://github.com/safe-graph/DGFraud)</br>
+
+- [Heterogeneous Graph Neural Networks for Malicious Account Detection](https://dl.acm.org/doi/10.1145/3269206.3272010 'CIKM 2018')[Heterogeneous Graph Neural Networks for Malicious Account Detection-代码](https://github.com/safe-graph/DGFraud)</br>
 
 - [CatchCore: Catching Hierarchical Dense Subtensor](https://shenghua-liu.github.io/papers/pkdd2019-catchcore.pdf) [catchcore-代码](https://github.com/wenchieh/catchcore/tree/master)</br>
 
