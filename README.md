@@ -41,10 +41,21 @@
 
 ## 顶会</br>
 - 有代码</br>
+> SliceNDice：捕捉具备大量共同属性的用户，比如在同一时间和地点创建的帐户、宣传相同言论和转发类似文章的账户。（年）
+> 输入：实体+属性1...+属性N
+> 算法功能：根据共同属性构造边，合并各属性构造的子图，形成Multi-View Graph.随后挖掘异常关联子图（"dense" subnetwork）.
+> 实验数据集大小：Snapchat advertiser platform（23W实体 × 12属性），发现2435异常实体，precision 89%
 - [SliceNDice: Mining Suspicious Multi-attribute Entity Groups with Multi-view Graphs](https://arxiv.org/abs/1908.07087) [SliceNDice-代码](https://github.com/hamedn/SliceNDice)</br>
-- [FlowScope: Spotting Money Laundering Based on Graphs](https://shenghua-liu.github.io/papers/aaai2020cr-flowscope.pdf) [FlowScope-代码](https://github.com/aplaceof/FlowScope)</br>
+
+> FlowScope（年）
+> 输入：A（转账人）->M(中间人)->C(收款人)
+> 算法功能：找到其中可能涉及洗钱的团伙
+> 实验数据集大小：-
+- [FlowScope: Spotting Money Laundering Based on Graphs](https://shenghua-liu.github.io/papers/aaai2020cr-flowscope.pdf) [FlowScope-代码](https://github.com/BGT-M/spartan2)</br>
+
 - [Spam Review Detection with Graph Convolutional Networks](https://arxiv.org/abs/1908.10679) [Spam Review Detection with Graph Convolutional Networks-代码](https://github.com/safe-graph/DGFraud)</br>
 - [Heterogeneous Graph Neural Networks for Malicious Account Detection](https://dl.acm.org/doi/10.1145/3269206.3272010)[Heterogeneous Graph Neural Networks for Malicious Account Detection-代码](https://github.com/safe-graph/DGFraud)</br>
+
 - [CatchCore: Catching Hierarchical Dense Subtensor](https://shenghua-liu.github.io/papers/pkdd2019-catchcore.pdf) [catchcore-代码](https://github.com/wenchieh/catchcore/tree/master)</br>
 
 -感兴趣</br>
@@ -60,7 +71,8 @@
 - [Friend or Faux: Graph-Based Early Detection of Fake Accounts on Social Networks](https://arxiv.org/abs/2004.04834)</br>
 
    
-
+- 后续研究</br>
+- [focus](https://github.com/BGT-M/spartan2 'spartan2 is a collection of data mining algorithms on big graphs and time series, providing three basic tasks: anomaly detection, forecast, and summarization.')
 
 # 风控策略工程师的入门课程</br>
 ## 第一课</br>
