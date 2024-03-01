@@ -73,6 +73,10 @@
 一起输入到GCN-based Anti-Spam（GAS）模型，进行有监督分类。
 - [Spam Review Detection with Graph Convolutional Networks](https://arxiv.org/abs/1908.10679 '阿里的论文 CIKM 2019') [Spam Review Detection with Graph Convolutional Networks-代码](https://github.com/safe-graph/DGFraud)</br>
 
+> 算法功能：考虑设备聚合和活动聚合，构建图结构embedding进行分类。本质是图卷积网络的一种变体
+> 效果：GBDT+Graph 方法与 GBDT+Node2Vec 方法相比效果相似，而 GCN 的效果优于 GBDT+Graph 和 GBDT+Node2Vec。
+> 作者提出的 GEM 方法在多种方面都优于 GCN，因为它处理了异构设备类型，而 GCN 只能处理同质图，无法区分图中不同类型的节点。
+> GEM 还使用每种节点类型的聚合操作，而不是标准化操作，因此更好地模拟了底层的聚合模式。
 - [Heterogeneous Graph Neural Networks for Malicious Account Detection](https://dl.acm.org/doi/10.1145/3269206.3272010 'CIKM 2018')[Heterogeneous Graph Neural Networks for Malicious Account Detection-代码](https://github.com/safe-graph/DGFraud)</br>
 
 - [CatchCore: Catching Hierarchical Dense Subtensor](https://shenghua-liu.github.io/papers/pkdd2019-catchcore.pdf) [catchcore-代码](https://github.com/wenchieh/catchcore/tree/master)</br>
