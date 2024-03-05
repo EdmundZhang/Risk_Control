@@ -1,27 +1,73 @@
-# 顶会</br>
+# 业务安全风控 欺诈论文整理
+> 有代码的论文优先考虑，对账号、营销、支付、广告等场景问题有直接启发的论文优先考虑。
 
 ## KDD (Data Mining)
-[2018-Adversarial Attacks on Neural Networks for Graph Data	Daniel Zügner-Technical University of Munich; et al.]()
+1. [**Best Paper**]2018-Adversarial Attacks on Neural Networks for Graph Data
+   - Daniel Zügner-Technical University of Munich;
+   - [Papers](https://www.semanticscholar.org/paper/Adversarial-Attacks-on-Neural-Networks-for-Graph-Z%C3%BCgner-Akbarnejad/6c44f8e62d824bcda4f291c679a5518bbd4225f6 '')
+   - [Codes](https://github.com/danielzuegner/nettack '')
+3. [**Best Paper**]2026-FRAUDAR: Bounding Graph Fraud in the Face of Camouflage
+   - Bryan Hooi-Carnegie Mellon University 
+   - [Papers](https://www.semanticscholar.org/paper/FRAUDAR%3A-Bounding-Graph-Fraud-in-the-Face-of-Hooi-Song/2852982175beeb92e14127277cb158c4cb31f5c5 '')
+4. [**Best Paper**]2012-Searching and Mining Trillions of Time Series Subsequences under Dynamic Time Warping
+   - Thanawin Rakthanmanon, University of California, Riverside;
+   - [Papers](https://www.semanticscholar.org/paper/Searching-and-Mining-Trillions-of-Time-Series-under-Rakthanmanon-Campana/c5a8d4145dc3530d437c93112b790bddb1927b59 '')
+5. [**Best Paper**]2004-A probabilistic framework for semi-supervised clustering
+   - Sugato Basu University of Texas at Austin;
+   - [Papers](https://www.semanticscholar.org/paper/A-probabilistic-framework-for-semi-supervised-Basu-Bilenko/01d5bf24c0b35d9a234d534bf69924fa16201dee '')
+6. [**Best Paper**]2002-Pattern discovery in sequences under a Markov assumption
+   - Darya Chudova & Padhraic Smyth, University of California, Irvine
+   - [Papers](https://www.semanticscholar.org/paper/Pattern-discovery-in-sequences-under-a-Markov-Chudova-Smyth/cf640511fb17f544b99a80470b018b7ea0d7b7b4 '')
 
-[2026-FRAUDAR: Bounding Graph Fraud in the Face of Camouflage	Bryan Hooi-Carnegie Mellon University; et al.]()
+- **Intention-aware Heterogeneous Graph Attention Networks for Fraud Transactions Detection (KDD 2021)**
+  - Can Liu, Li Sun, Xiang Ao, Jinghua Feng, Qing He, Hao Yang
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3447548.3467142)
 
-[2012-Searching and Mining Trillions of Time Series Subsequences under Dynamic Time Warping-Thanawin Rakthanmanon, University of California, Riverside; et al.]()
+- **Live-Streaming Fraud Detection: A Heterogeneous Graph Neural Network Approach (KDD 2021)**
+  - Haishuai Wang, Zhao Li, Peng Zhang, Jiaming Huang, Pengrui Hui, Jian Liao, Ji Zhang, Jiajun Bu
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467065)
 
-[2004-A probabilistic framework for semi-supervised clustering-Sugato Basu, University of Texas at Austin; et al.]()
-
-[2002-Pattern discovery in sequences under a Markov assumption-Darya Chudova & Padhraic Smyth, University of California, Irvine]()
-
+- **Collective Opinion Spam Detection: Bridging Review Networks and Metadata (KDD 2015)**
+  - Shebuti Rayana, Leman Akoglu
+  - [[Paper]](https://www.andrew.cmu.edu/user/lakoglu/pubs/15-kdd-collectiveopinionspam.pdf)
+  - [[Code]](https://github.com/safe-graph/UGFraud)
 
 ## AAAI (Artificial Intelligence) NoProper
-1. 2023-Semi-supervised Credit Card Fraud Detection via Attribute-driven Graph Representation-Sheng Xiang, Mingzhi Zhu, Dawei Cheng, Enxia Li, Ruihui Zhao, Yi Ouyang, Ling Chen, Yefeng Zheng
+1. 2023-Semi-supervised Credit Card Fraud Detection via Attribute-driven Graph Representation (**AntiFraud**)
+   - Sheng Xiang, Mingzhi Zhu, Dawei Cheng, Enxia Li, Ruihui Zhao, Yi Ouyang, Ling Chen, Yefeng Zheng
+   - [Papers](https://www.xiangshengcloud.top/publication/semi-supervised-credit-card-fraud-detection-via-attribute-driven-graph-representation/Sheng-AAAI2023.pdf '')
+   - [Codes](https://github.com/AI4Risk/antifraud '')
+- **Modeling the Field Value Variations and Field Interactions Simultaneously for Fraud Detection (AAAI 2021)**
+  - Dongbo Xi, Bowen Song, Fuzhen Zhuang, Yongchun Zhu, Shuai Chen, Tianyi Zhang, Yuan Qi, Qing He
+  - [[Paper]](https://arxiv.org/abs/2008.05600)
 
-[Papers](https://www.xiangshengcloud.top/publication/semi-supervised-credit-card-fraud-detection-via-attribute-driven-graph-representation/Sheng-AAAI2023.pdf '')
+- **Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism (AAAI 2019)**
+  - Binbin Hu, Zhiqiang Zhang, Chuan Shi, Jun Zhou, Xiaolong Li, Yuan Qi
+  - [[Paper]](https://aaai.org/ojs/index.php/AAAI/article/view/3884)
+  - [[Code]](https://github.com/safe-graph/DGFraud)
+  
+- **GeniePath: Graph Neural Networks with Adaptive Receptive Paths (AAAI 2019)**
+  - Ziqi Liu, Chaochao Chen, Longfei Li, Jun Zhou, Xiaolong Li, Le Song, Yuan Qi
+  - [[Paper]](https://arxiv.org/abs/1802.00910)
+  - [[Code]](https://github.com/safe-graph/DGFraud)
 
-[Codes](https://github.com/AI4Risk/antifraud '')
+- **One-Class Adversarial Nets for Fraud Detection (AAAI 2019)**
+  - Panpan Zheng, Shuhan Yuan, Xintao Wu, Jun Li, Aidong Lu
+  - [[Paper]](https://arxiv.org/abs/1803.01798)
+  - [[Code]](https://github.com/ILoveAI2019/OCAN)
+
+- **SAFE: A Neural Survival Analysis Model for Fraud Early Detection (AAAI 2019)**
+  - Panpan Zheng, Shuhan Yuan, Xintao Wu
+  - [[Paper]](https://arxiv.org/abs/1809.04683v2)
+  - [[Code]](https://github.com/PanpanZheng/SAFE)
 
 ## NeurIPS (Machine Learning) NoProper
 ## ICML (Machine Learning)  NoProper
 ## IJCAI (Artificial Intelligence)  NoProper
+- **Online Credit Payment Fraud Detection via Structure-Aware Hierarchical Recurrent Neural Network (IJCAI 2021)**
+  - Wangli Lin, Li Sun, Qiwei Zhong, Can Liu, Jinghua Feng, Xiang Ao, Hao Yang
+  - [[Paper]](https://www.ijcai.org/proceedings/2021/505)
+
 ## WSDM 
 1. 2023-A Framework for Detecting Frauds from Extremely Few Labels-Ya-Lin Zhang, Yi-Xuan Sun, Fangfang Fan, Meng Li, Yeyu Zhao, Wei Wang, Longfei Li, Jun Zhou, Jinghua Feng
 [Papers](https://dl.acm.org/doi/10.1145/3539597.3573022 '')
@@ -38,25 +84,48 @@
   - Zidi Qin, Yang Liu, Qing He, Xiang Ao
   - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3511808.3557598)
 
-- **Modeling the Field Value Variations and Field Interactions Simultaneously for Fraud Detection (AAAI 2021)**
-  - Dongbo Xi, Bowen Song, Fuzhen Zhuang, Yongchun Zhu, Shuai Chen, Tianyi Zhang, Yuan Qi, Qing He
-  - [[Paper]](https://arxiv.org/abs/2008.05600)
+- **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters (CIKM 2020)**
+  - Yingtong Dou, Zhiwei Liu, Li Sun, Yutong Deng, Hao Peng, Philip S. Yu
+  - [[Paper]](https://arxiv.org/abs/2008.08692)
+  - [[Code]](https://github.com/YingtongDou/CARE-GNN)
 
-- **Online Credit Payment Fraud Detection via Structure-Aware Hierarchical Recurrent Neural Network (IJCAI 2021)**
-  - Wangli Lin, Li Sun, Qiwei Zhong, Can Liu, Jinghua Feng, Xiang Ao, Hao Yang
-  - [[Paper]](https://www.ijcai.org/proceedings/2021/505)
+- **BotSpot: A Hybrid Learning Framework to Uncover Bot Install Fraud in Mobile Advertising (CIKM 2020)**
+  - Tianjun Yao, Qing Li, Shangsong Liang, Yadong Zhu
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412690)
+  - [[Code]](https://github.com/akakeigo2020/CIKM-Applied_Research-2150)
 
-- **Intention-aware Heterogeneous Graph Attention Networks for Fraud Transactions Detection (KDD 2021)**
-  - Can Liu, Li Sun, Xiang Ao, Jinghua Feng, Qing He, Hao Yang
-  - [[Paper]](https://dl.acm.org/doi/10.1145/3447548.3467142)
+- **Spam Review Detection with Graph Convolutional Networks (CIKM 2019)**
+  - Ao Li, Zhou Qin, Runshi Liu, Yiqun Yang, Dong Li
+  - [[Paper]](https://arxiv.org/abs/1908.10679)
+  - [[Code]](https://github.com/safe-graph/DGFraud)
 
-- **Live-Streaming Fraud Detection: A Heterogeneous Graph Neural Network Approach (KDD 2021)**
-  - Haishuai Wang, Zhao Li, Peng Zhang, Jiaming Huang, Pengrui Hui, Jian Liao, Ji Zhang, Jiajun Bu
-  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467065)
+- **Key Player Identification in Underground Forums Over Attributed Heterogeneous Information Network Embedding Framework (CIKM 2019)**
+   - Yiming Zhang, Yujie Fan, Yanfang Ye, Liang Zhao, Chuan Shi
+   - [[Paper]](http://mason.gmu.edu/~lzhao9/materials/papers/lp0110-zhangA.pdf)
+   - [[Code]](https://github.com/safe-graph/DGFraud)
 
+- **Heterogeneous Graph Neural Networks for Malicious Account Detection (CIKM 2018)**
+  - Ziqi Liu, Chaochao Chen, Xinxing Yang, Jun Zhou, Xiaolong Li, and Le Song
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3269206.3272010)
+  - [[Code]](https://github.com/safe-graph/DGFraud)
+  
+# WWW 
 - **Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection (WWW 2021)**
   - Yang Liu, Xiang Ao, Zidi Qin, Jianfeng Chi, Jinghua Feng, Hao Yang, Qing He
   - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449989)
+
+- **FdGars: Fraudster Detection via Graph Convolutional Networks in Online App Review System (WWW 2019)**
+  - Rui Wen, Jianyu Wang and Yu Huang
+  - [[Paper]](https://dl.acm.org/citation.cfm?id=3316586)
+  - [[Code]](https://github.com/safe-graph/DGFraud)
+
+- **Friend or Faux: Graph-Based Early Detection of Fake Accounts on Social Networks (WWW 2020)**
+  - Adam Breuer, Roee Eilat, Udi Weinsberg
+  - [[Paper]](https://arxiv.org/abs/2004.04834)
+ 
+- **Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network (WWW 2020)**
+  - Qiwei Zhong, Yang Liu, Xiang Ao, Binbin Hu, Jinghua Feng, Jiayu Tang, Qing He
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3366423.3380159)
 
 - 有代码</br>
 > SliceNDice：捕捉具备大量共同属性的用户，比如在同一时间和地点创建的帐户、宣传相同言论和转发类似文章的账户。(IEEE DSAA (2019)) 
@@ -109,8 +178,6 @@
 -其它</br>
 - [Identifying Anomalies in Graph Streams Using Change Detection](https://www.mlgworkshop.org/2016/paper/MLG2016_paper_12.pdf)</br>
 
-
-
 - [HitFraud: A Broad Learning Approach for Collective Fraud Detection in Heterogeneous Information Networks](https://arxiv.org/abs/1709.04129)</br>
 - [Friend or Faux: Graph-Based Early Detection of Fake Accounts on Social Networks](https://arxiv.org/abs/2004.04834)</br>
 
@@ -118,102 +185,38 @@
 - 后续研究</br>
 - [focus](https://github.com/BGT-M/spartan2 'spartan2 is a collection of data mining algorithms on big graphs and time series, providing three basic tasks: anomaly detection, forecast, and summarization.')
 
-- **Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism (AAAI 2019)**
-  - Binbin Hu, Zhiqiang Zhang, Chuan Shi, Jun Zhou, Xiaolong Li, Yuan Qi
-  - [[Paper]](https://aaai.org/ojs/index.php/AAAI/article/view/3884)
-  - [[Code]](https://github.com/safe-graph/DGFraud)
-  
-- **GeniePath: Graph Neural Networks with Adaptive Receptive Paths (AAAI 2019)**
-  - Ziqi Liu, Chaochao Chen, Longfei Li, Jun Zhou, Xiaolong Li, Le Song, Yuan Qi
-  - [[Paper]](https://arxiv.org/abs/1802.00910)
-  - [[Code]](https://github.com/safe-graph/DGFraud)
-
-- **Spam Review Detection with Graph Convolutional Networks (CIKM 2019)**
-  - Ao Li, Zhou Qin, Runshi Liu, Yiqun Yang, Dong Li
-  - [[Paper]](https://arxiv.org/abs/1908.10679)
-  - [[Code]](https://github.com/safe-graph/DGFraud)
-
+# ICDM
 - **A Semi-Supervised Graph Attentive Network for Fraud Detection (ICDM 2019)**
   - Daixin Wang, Jianbin Lin, Peng Cui, Quanhui Jia, Zhen Wang, Yanming Fang, Quan Yu, Jun Zhou, Shuang Yang, and Qi Yuan 
   - [[Paper]](https://arxiv.org/abs/2003.01171)
   - [[Code]](https://github.com/safe-graph/DGFraud)
 
 
-- **FdGars: Fraudster Detection via Graph Convolutional Networks in Online App Review System (WWW 2019)**
-  - Rui Wen, Jianyu Wang and Yu Huang
-  - [[Paper]](https://dl.acm.org/citation.cfm?id=3316586)
-  - [[Code]](https://github.com/safe-graph/DGFraud)
-
-- **ZooBP: Belief Propagation for Heterogeneous Networks (VLDB 2017)**
-  - Dhivya Eswaran, Stephan Gunnemann, Christos Faloutsos, Disha Makhija, Mohit Kumar
-  - [[Paper]](http://www.vldb.org/pvldb/vol10/p625-eswaran.pdf)
-  - [[Code]](https://github.com/safe-graph/UGFraud)
-
-- **Heterogeneous Graph Neural Networks for Malicious Account Detection (CIKM 2018)**
-  - Ziqi Liu, Chaochao Chen, Xinxing Yang, Jun Zhou, Xiaolong Li, and Le Song
-  - [[Paper]](https://dl.acm.org/doi/10.1145/3269206.3272010)
-  - [[Code]](https://github.com/safe-graph/DGFraud)
-
 - **Spotting Suspicious Link Behavior with fBox: An Adversarial Perspective (ICDM 2014)**
   - Neil Shah, Alex Beutel, Brian Gallagher, Christos Faloutsos
   - [[Paper]](https://arxiv.org/pdf/1410.3915.pdf)
   - [[Code]](https://github.com/safe-graph/UGFraud)
-  - 
 
-- **Collective Opinion Spam Detection: Bridging Review Networks and Metadata (KDD 2015)**
-  - Shebuti Rayana, Leman Akoglu
-  - [[Paper]](https://www.andrew.cmu.edu/user/lakoglu/pubs/15-kdd-collectiveopinionspam.pdf)
-  - [[Code]](https://github.com/safe-graph/UGFraud)
 
 - **GANG: Detecting Fraudulent Users in Online Social Networks via Guilt-by-Association on Directed Graphs (ICDM 2017)**
   - Binghui Wang, Neil Zhenqiang Gong, Hao Fu
   - [[Paper]](https://ieeexplore.ieee.org/document/8215519)
   - [[Code]](https://github.com/safe-graph/UGFraud)
 
+# VLDB
+- **ZooBP: Belief Propagation for Heterogeneous Networks (VLDB 2017)**
+  - Dhivya Eswaran, Stephan Gunnemann, Christos Faloutsos, Disha Makhija, Mohit Kumar
+  - [[Paper]](http://www.vldb.org/pvldb/vol10/p625-eswaran.pdf)
+  - [[Code]](https://github.com/safe-graph/UGFraud)
 
+
+# WSDM
  - **REV2: Fraudulent User Prediction in Rating Platforms (WSDM 2018)**
   - Srijan Kumar, Bryan Hooi, Disha Makhija, Mohit Kumar, Christos Faloutsos, V. S. Subrahmanian
   - [[Paper]](https://cs.stanford.edu/~srijan/pubs/rev2-wsdm18.pdf)
   - [[Code]](https://cs.stanford.edu/~srijan/rev2/)
 
-
-- **Key Player Identification in Underground Forums Over Attributed Heterogeneous Information Network Embedding Framework (CIKM 2019)**
-   - Yiming Zhang, Yujie Fan, Yanfang Ye, Liang Zhao, Chuan Shi
-   - [[Paper]](http://mason.gmu.edu/~lzhao9/materials/papers/lp0110-zhangA.pdf)
-   - [[Code]](https://github.com/safe-graph/DGFraud)
-
-
-
-- **One-Class Adversarial Nets for Fraud Detection (AAAI 2019)**
-  - Panpan Zheng, Shuhan Yuan, Xintao Wu, Jun Li, Aidong Lu
-  - [[Paper]](https://arxiv.org/abs/1803.01798)
-  - [[Code]](https://github.com/ILoveAI2019/OCAN)
-
-- **SAFE: A Neural Survival Analysis Model for Fraud Early Detection (AAAI 2019)**
-  - Panpan Zheng, Shuhan Yuan, Xintao Wu
-  - [[Paper]](https://arxiv.org/abs/1809.04683v2)
-  - [[Code]](https://github.com/PanpanZheng/SAFE)
-
-- **Friend or Faux: Graph-Based Early Detection of Fake Accounts on Social Networks (WWW 2020)**
-  - Adam Breuer, Roee Eilat, Udi Weinsberg
-  - [[Paper]](https://arxiv.org/abs/2004.04834)
- 
-- **Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network (WWW 2020)**
-  - Qiwei Zhong, Yang Liu, Xiang Ao, Binbin Hu, Jinghua Feng, Jiayu Tang, Qing He
-  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3366423.3380159)
-
-- **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters (CIKM 2020)**
-  - Yingtong Dou, Zhiwei Liu, Li Sun, Yutong Deng, Hao Peng, Philip S. Yu
-  - [[Paper]](https://arxiv.org/abs/2008.08692)
-  - [[Code]](https://github.com/YingtongDou/CARE-GNN)
-
-- **BotSpot: A Hybrid Learning Framework to Uncover Bot Install Fraud in Mobile Advertising (CIKM 2020)**
-  - Tianjun Yao, Qing Li, Shangsong Liang, Yadong Zhu
-  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412690)
-  - [[Code]](https://github.com/akakeigo2020/CIKM-Applied_Research-2150)
-
-
 # 参考网站
-[Awesome Fraud Detection Research Papers.](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers '')
-[Fraud Detection Papers](https://github.com/IPL/fraud-detection-papers '')
-[Best Paper Awards](https://jeffhuang.com/best_paper_awards/institutions.html '')
+[Awesome Fraud Detection Research Papers.](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers '全网比较权威和完整的反欺诈文章整理')
+[Fraud Detection Papers](https://github.com/IPL/fraud-detection-papers '广告反欺诈内容比较多，看着停更有几年了')
+[Best Paper Awards](https://jeffhuang.com/best_paper_awards/institutions.html 'Update了各类顶会文章的Best Papers')
