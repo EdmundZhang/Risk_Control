@@ -13,12 +13,50 @@
 
 
 ## AAAI (Artificial Intelligence) NoProper
+1. 2023-Semi-supervised Credit Card Fraud Detection via Attribute-driven Graph Representation-Sheng Xiang, Mingzhi Zhu, Dawei Cheng, Enxia Li, Ruihui Zhao, Yi Ouyang, Ling Chen, Yefeng Zheng
+
+[Papers](https://www.xiangshengcloud.top/publication/semi-supervised-credit-card-fraud-detection-via-attribute-driven-graph-representation/Sheng-AAAI2023.pdf '')
+
+[Codes](https://github.com/AI4Risk/antifraud '')
+
 ## NeurIPS (Machine Learning) NoProper
 ## ICML (Machine Learning)  NoProper
 ## IJCAI (Artificial Intelligence)  NoProper
+## WSDM 
+1. 2023-A Framework for Detecting Frauds from Extremely Few Labels-Ya-Lin Zhang, Yi-Xuan Sun, Fangfang Fan, Meng Li, Yeyu Zhao, Wei Wang, Longfei Li, Jun Zhou, Jinghua Feng
+[Papers](https://dl.acm.org/doi/10.1145/3539597.3573022 '')
 
+## CIKM
+1. 2022-BRIGHT - Graph Neural Networks in Real-time Fraud Detection-Mingxuan Lu, Zhichao Han, Susie Xi Rao, Zitao Zhang, Yang Zhao, Yinan Shan, Ramesh Raghunathan, Ce Zhang, Jiawei Jiang
+[Papers](https://arxiv.org/abs/2205.13084 '')
 
+- **Dual-Augment Graph Neural Network for Fraud Detection (CIKM 2022)**
+  - Qiutong Li, Yanshen He, Cong Xu, Feng Wu, Jianliang Gao, Zhao Li
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3511808.3557586)
 
+- **Explainable Graph-based Fraud Detection via Neural Meta-graph Search (CIKM 2022)**
+  - Zidi Qin, Yang Liu, Qing He, Xiang Ao
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3511808.3557598)
+
+- **Modeling the Field Value Variations and Field Interactions Simultaneously for Fraud Detection (AAAI 2021)**
+  - Dongbo Xi, Bowen Song, Fuzhen Zhuang, Yongchun Zhu, Shuai Chen, Tianyi Zhang, Yuan Qi, Qing He
+  - [[Paper]](https://arxiv.org/abs/2008.05600)
+
+- **Online Credit Payment Fraud Detection via Structure-Aware Hierarchical Recurrent Neural Network (IJCAI 2021)**
+  - Wangli Lin, Li Sun, Qiwei Zhong, Can Liu, Jinghua Feng, Xiang Ao, Hao Yang
+  - [[Paper]](https://www.ijcai.org/proceedings/2021/505)
+
+- **Intention-aware Heterogeneous Graph Attention Networks for Fraud Transactions Detection (KDD 2021)**
+  - Can Liu, Li Sun, Xiang Ao, Jinghua Feng, Qing He, Hao Yang
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3447548.3467142)
+
+- **Live-Streaming Fraud Detection: A Heterogeneous Graph Neural Network Approach (KDD 2021)**
+  - Haishuai Wang, Zhao Li, Peng Zhang, Jiaming Huang, Pengrui Hui, Jian Liao, Ji Zhang, Jiajun Bu
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467065)
+
+- **Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection (WWW 2021)**
+  - Yang Liu, Xiang Ao, Zidi Qin, Jianfeng Chi, Jinghua Feng, Hao Yang, Qing He
+  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449989)
 
 - 有代码</br>
 > SliceNDice：捕捉具备大量共同属性的用户，比如在同一时间和地点创建的帐户、宣传相同言论和转发类似文章的账户。(IEEE DSAA (2019)) 
@@ -80,6 +118,16 @@
 - 后续研究</br>
 - [focus](https://github.com/BGT-M/spartan2 'spartan2 is a collection of data mining algorithms on big graphs and time series, providing three basic tasks: anomaly detection, forecast, and summarization.')
 
+
+- **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters (CIKM 2020)**
+  - Yingtong Dou, Zhiwei Liu, Li Sun, Yutong Deng, Hao Peng, Philip S. Yu
+  - [[Paper]](https://arxiv.org/abs/2008.08692)
+  - [[Code]](https://github.com/YingtongDou/CARE-GNN)
+
+- **BotSpot: A Hybrid Learning Framework to Uncover Bot Install Fraud in Mobile Advertising (CIKM 2020)**
+  - Tianjun Yao, Qing Li, Shangsong Liang, Yadong Zhu
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412690)
+  - [[Code]](https://github.com/akakeigo2020/CIKM-Applied_Research-2150)
 
 
 # 参考网站
