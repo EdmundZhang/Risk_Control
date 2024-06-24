@@ -2,13 +2,15 @@
 
 [纯真IP库](https://www.cz88.net/iplab '国内比较知名的IP库')
 
+[IP2Location.io](https://www.ip2location.io/ '可以查询IP地理和代理资料')
+
+[ip2proxy](https://www.ip2proxy.com/ '')
+
 [ipaddress](https://www.ipaddress.my/ '可以查询自己的IP，字段也比较多')
 
 [iphub](https://iphub.info/ '')
 
 [ipinfo](https://ipinfo.io/ '')
-
-[ip2proxy](https://www.ip2proxy.com/ '')
 
 [ipinfodb](https://www.ipinfodb.com/ '')
 
