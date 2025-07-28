@@ -11,9 +11,9 @@ TITLE:CTO推荐：IP2Data企业级风控解决方案，3分钟部署解决刷量
 ▶️ ​**精准双重防御，可视化风控配置，打击恶意如手术刀般精准**​  
 
 ✅ IP威胁画像（秒拨/代理/Tor）  
-<img src="attachment/d2b5ca33bd970f64a6301fa75ae2eb22.png" />
+<img src="d2b5ca33bd970f64a6301fa75ae2eb22.png" />
 ✅ 行为频率熔断（毫秒级拦截） 
-<img src="attachment/534ea2218df55232f652fb48370e1539.png" /> 
+<img src="534ea2218df55232f652fb48370e1539.png" /> 
 
 ▶️ ​接入简单，容灾逻辑完备，极端情况无损主流程   
 ```bash
@@ -33,7 +33,7 @@ RmsRiskControlSdk.configureCircuitBreakerDuration(60000);
 String apiToken = "your_api_token_here"; // 请替换为您的实际API Token
 RmsRiskControlSdk sdk = RmsRiskControlSdk.getInstance("http://antifraud.top:8080/api/v1/anti_crawler", apiToken);
 ```
-<img src="attachment/1ac46fddebf26ac5da3b93f09fadcb02.png" />
+<img src="1ac46fddebf26ac5da3b93f09fadcb02.png" />
 
 
 # 💰 一杯奶茶钱守护百万业务
